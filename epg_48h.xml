@@ -7,7 +7,6 @@
 </channel>
 <channel id="3">
 <display-name>Test 9</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1899.png" />
 </channel>
 <channel id="2">
 <display-name>RTS 2</display-name>
@@ -379,7 +378,6 @@
 </channel>
 <channel id="1975">
 <display-name>Aurora TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2126.png" />
 </channel>
 <channel id="1584">
 <display-name>Medjugorje misa uzivo</display-name>
@@ -883,7 +881,6 @@
 </channel>
 <channel id="2310">
 <display-name>Ma stream 720p 25fps</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1845.png" />
 </channel>
 <channel id="1665">
 <display-name>TV E HD</display-name>
@@ -1035,7 +1032,6 @@
 </channel>
 <channel id="1353">
 <display-name>Arena Sport 1 FullHD HR *hevc*</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1840.png" />
 </channel>
 <channel id="583">
 <display-name>Arena Sport HD 1 HR</display-name>
@@ -1527,7 +1523,6 @@
 </channel>
 <channel id="1971">
 <display-name>Travel SERBIA</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1258.png" />
 </channel>
 <channel id="431">
 <display-name>HGTV</display-name>
@@ -1855,7 +1850,6 @@
 </channel>
 <channel id="1760">
 <display-name>Extra TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2073.png" />
 </channel>
 <channel id="1408">
 <display-name>Svet Plus</display-name>
@@ -1987,7 +1981,6 @@
 </channel>
 <channel id="1920">
 <display-name>Kazbuka TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1870.png" />
 </channel>
 <channel id="71">
 <display-name>RTL Kockica</display-name>
@@ -2023,7 +2016,6 @@
 </channel>
 <channel id="1919">
 <display-name>Tropik TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1869.png" />
 </channel>
 <channel id="1334">
 <display-name>Artic Crtic</display-name>
@@ -2551,7 +2543,6 @@
 </channel>
 <channel id="2012">
 <display-name>TVR Timisoara</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2059.png" />
 </channel>
 <channel id="259">
 <display-name>National TV</display-name>
@@ -2623,7 +2614,6 @@
 </channel>
 <channel id="2435">
 <display-name>Columna TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2060.png" />
 </channel>
 <channel id="1032">
 <display-name>ProCinema</display-name>
@@ -2775,135 +2765,102 @@
 </channel>
 <channel id="2351">
 <display-name>NPO 1 Extra (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1953.png" />
 </channel>
 <channel id="2354">
 <display-name>NPO Politiek en Nieuws (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1954.png" />
 </channel>
 <channel id="2355">
 <display-name>BBC First (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1955.png" />
 </channel>
 <channel id="2356">
 <display-name>BBC Entertainment (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1956.png" />
 </channel>
 <channel id="2391">
 <display-name>Auto Motor Sport (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1957.png" />
 </channel>
 <channel id="2398">
 <display-name>Cartoon Network (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1958.png" />
 </channel>
 <channel id="2394">
 <display-name>Cartoonito (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1959.png" />
 </channel>
 <channel id="2392">
 <display-name>Comedy Central (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1960.png" />
 </channel>
 <channel id="2397">
 <display-name>Disney Channel (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1961.png" />
 </channel>
 <channel id="2374">
 <display-name>DocuBox (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1962.png" />
 </channel>
 <channel id="2381">
 <display-name>ESPN 1 (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1963.png" />
 </channel>
 <channel id="2382">
 <display-name>ESPN 2 (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1964.png" />
 </channel>
 <channel id="2383">
 <display-name>ESPN 3 (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1965.png" />
 </channel>
 <channel id="2384">
 <display-name>ESPN 4 (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1966.png" />
 </channel>
 <channel id="2375">
 <display-name>FightBox (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1967.png" />
 </channel>
 <channel id="2373">
 <display-name>FilmBox (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1968.png" />
 </channel>
 <channel id="2376">
 <display-name>Fox Channel (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1969.png" />
 </channel>
 <channel id="2377">
 <display-name>History Channel (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1970.png" />
 </channel>
 <channel id="2378">
 <display-name>National Geographic Wild (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1971.png" />
 </channel>
 <channel id="2395">
 <display-name>Nick Jr (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1972.png" />
 </channel>
 <channel id="2396">
 <display-name>Nickelodeon (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1973.png" />
 </channel>
 <channel id="2363">
 <display-name>RTL Lounge (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1974.png" />
 </channel>
 <channel id="2364">
 <display-name>RTL Telekids (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1975.png" />
 </channel>
 <channel id="2361">
 <display-name>RTL Z (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1976.png" />
 </channel>
 <channel id="2367">
 <display-name>SBS 9 (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1977.png" />
 </channel>
 <channel id="2390">
 <display-name>Ziggo Sport Docu (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1978.png" />
 </channel>
 <channel id="2389">
 <display-name>Ziggo Sport Extra (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1979.png" />
 </channel>
 <channel id="2387">
 <display-name>Ziggo Sport Golf (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1980.png" />
 </channel>
 <channel id="2388">
 <display-name>Ziggo Sport Racing (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1981.png" />
 </channel>
 <channel id="2385">
 <display-name>Ziggo Sport Select (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1982.png" />
 </channel>
 <channel id="2386">
 <display-name>Ziggo Sport Voetbal (nl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1983.png" />
 </channel>
 <channel id="1465">
 <display-name>STV1 HD</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1386.png" />
 </channel>
 <channel id="1466">
 <display-name>STV2 HD</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1388.png" />
 </channel>
 <channel id="1469">
 <display-name>Sport TV Sk</display-name>
@@ -2911,35 +2868,27 @@
 </channel>
 <channel id="1955">
 <display-name>Doma sk</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1214.png" />
 </channel>
 <channel id="1471">
 <display-name>TV JoJ </display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1496.png" />
 </channel>
 <channel id="1467">
 <display-name>TV JoJ PluS</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1497.png" />
 </channel>
 <channel id="1958">
 <display-name>Joj +1</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2112.png" />
 </channel>
 <channel id="1957">
 <display-name>Joj Cinema +1</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2111.png" />
 </channel>
 <channel id="1959">
 <display-name>Joj Svet</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2113.png" />
 </channel>
 <channel id="1960">
 <display-name>Joj Wau</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2114.png" />
 </channel>
 <channel id="1961">
 <display-name>Joj 24</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2115.png" />
 </channel>
 <channel id="1962">
 <display-name>TV JoJ Sport</display-name>
@@ -2951,7 +2900,6 @@
 </channel>
 <channel id="1956">
 <display-name>DajTo TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1193.png" />
 </channel>
 <channel id="1473">
 <display-name>RTVS 24HD</display-name>
@@ -2959,11 +2907,9 @@
 </channel>
 <channel id="1964">
 <display-name>Markiza TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2116.png" />
 </channel>
 <channel id="1965">
 <display-name>Markiza +1</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2117.png" />
 </channel>
 <channel id="708">
 <display-name>markiza Krimi HD</display-name>
@@ -2971,23 +2917,18 @@
 </channel>
 <channel id="1966">
 <display-name>Lala TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2118.png" />
 </channel>
 <channel id="1967">
 <display-name>HaHa TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2119.png" />
 </channel>
 <channel id="1968">
 <display-name>Senzi TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2120.png" />
 </channel>
 <channel id="1969">
 <display-name>Ta3 TV</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2121.png" />
 </channel>
 <channel id="1970">
 <display-name>TV Lux</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2122.png" />
 </channel>
 <channel id="1581">
 <display-name>1 Be</display-name>
@@ -3075,7 +3016,6 @@
 </channel>
 <channel id="2307">
 <display-name>RTL Tele Letzebuerg</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1727.png" />
 </channel>
 <channel id="486">
 <display-name>TVP 1 (pol)</display-name>
@@ -3087,11 +3027,9 @@
 </channel>
 <channel id="1762">
 <display-name>TVP Info (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2074.png" />
 </channel>
 <channel id="1806">
 <display-name>TVN 24 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2077.png" />
 </channel>
 <channel id="1271">
 <display-name>TV4 (pol)</display-name>
@@ -3099,99 +3037,75 @@
 </channel>
 <channel id="1763">
 <display-name>TVP Sport (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2079.png" />
 </channel>
 <channel id="1767">
 <display-name>Polsat Sport 1 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2080.png" />
 </channel>
 <channel id="1768">
 <display-name>Polsat Sport 2 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2081.png" />
 </channel>
 <channel id="1824">
 <display-name>Polsat Sport 3 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2082.png" />
 </channel>
 <channel id="1795">
 <display-name>Eleven Sports 1 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2083.png" />
 </channel>
 <channel id="1796">
 <display-name>Eleven Sports 2 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2084.png" />
 </channel>
 <channel id="1802">
 <display-name>Eleven Sports 3 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2085.png" />
 </channel>
 <channel id="1803">
 <display-name>Eleven Sports 4 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2086.png" />
 </channel>
 <channel id="2446">
 <display-name>Polsat Film (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2087.png" />
 </channel>
 <channel id="2448">
 <display-name>HBO 1 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2088.png" />
 </channel>
 <channel id="1807">
 <display-name>HBO 2 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2089.png" />
 </channel>
 <channel id="1809">
 <display-name>HBO 3 (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2090.png" />
 </channel>
 <channel id="1811">
 <display-name>AXN (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2091.png" />
 </channel>
 <channel id="1816">
 <display-name>AMC (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2092.png" />
 </channel>
 <channel id="1817">
 <display-name>Kino Polska (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2093.png" />
 </channel>
 <channel id="1819">
 <display-name>Animal Planet (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2094.png" />
 </channel>
 <channel id="1820">
 <display-name>National Geographic (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2095.png" />
 </channel>
 <channel id="1783">
 <display-name>Polsat Viasat History (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2097.png" />
 </channel>
 <channel id="1791">
 <display-name>Polsat Viasat Nature (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2098.png" />
 </channel>
 <channel id="2449">
 <display-name>Nickelodeon (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2099.png" />
 </channel>
 <channel id="1823">
 <display-name>Nicktoons (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2100.png" />
 </channel>
 <channel id="1821">
 <display-name>Nick Junior (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2101.png" />
 </channel>
 <channel id="1766">
 <display-name>Polsat Music (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2102.png" />
 </channel>
 <channel id="1765">
 <display-name>Polsay News (pl)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2103.png" />
 </channel>
 <channel id="1568">
 <display-name>Disney Channel (pol)</display-name>
@@ -3203,7 +3117,6 @@
 </channel>
 <channel id="2309">
 <display-name>YuRoMAX</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2052.png" />
 </channel>
 <channel id="-1">
 <display-name>Test 3 (CF)</display-name>
@@ -3431,7 +3344,6 @@
 </channel>
 <channel id="1712">
 <display-name>TV 8.5 Tr</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1801.png" />
 </channel>
 <channel id="283">
 <display-name>TRT Cocuk</display-name>
@@ -3687,51 +3599,39 @@
 </channel>
 <channel id="74">
 <display-name>Al jazeera balkans novi</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1821.png" />
 </channel>
 <channel id="2250">
 <display-name>SRF 1 (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1984.png" />
 </channel>
 <channel id="2251">
 <display-name>SRF 2 (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1985.png" />
 </channel>
 <channel id="2252">
 <display-name>SRF Info (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1986.png" />
 </channel>
 <channel id="2253">
 <display-name>RTS Un (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1987.png" />
 </channel>
 <channel id="2254">
 <display-name>RTS Deux (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1988.png" />
 </channel>
 <channel id="2262">
 <display-name>Star TV (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1996.png" />
 </channel>
 <channel id="2263">
 <display-name>TV24 (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/1997.png" />
 </channel>
 <channel id="2266">
 <display-name>Rouge TV (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2000.png" />
 </channel>
 <channel id="2271">
 <display-name>Blue Zoom (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2005.png" />
 </channel>
 <channel id="2276">
 <display-name>RSI La 1 (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2010.png" />
 </channel>
 <channel id="2277">
 <display-name>RSI La 2 (ch)</display-name>
-<icon src="http://mag.link-tv.net:88/stalker_portal/misc/logos/120/2011.png" />
 </channel>
 <programme start="20251011132900 +0000" stop="20251011135600 +0000" channel="1608">
 <title>WELT Drive</title>
@@ -4235,11 +4135,6 @@ Arena Sport vam donosi emisiju u kojoj ćete upoznati košarkaške klubove dilje
 </programme>
 <programme start="20251013073000 +0000" stop="20251013093000 +0000" channel="1025">
 <title>Svetsko prvenstvo (Ž): Japan - Turska, Polufinale, odbojka</title>
-</programme>
-<programme start="20251011125500 +0000" stop="20251011134500 +0000" channel="1807">
-<title>Stigni me ako znaš</title>
-<desc>Stigni me ako znaš je srpski kviz zabavnog karaktera koji se od 6. ožujka 2020. godine emitira na RTS 1 svakog petka u 22 sata. Voditeljica kviza je Kristina Radenković.
-Znanje, sreća, taktika i malo nostalgije, najkraći su opis kviza koji ćemo pratiti iz petka u petak. Očekuju nas dinamična igra, veliki broj nepredvidivih situacija i obrta, grandiozni studio kojim bi mogle da se pohvale velike svetske produkcije i, najvažnije od svega - mogućnost da se ispred TV ekrana zabavite i testirate...</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011144000 +0000" channel="1807">
 <title>Miholjsko leto</title>
@@ -4752,6 +4647,11 @@ Ihr Hexendasein stellt das Leben dreier Schwestern völlig auf den Kopf.</desc>
 Der Ex-Dämon Drake wird in der Zauberschule als Literaturlehrer angestellt.
 Ihr Hexendasein stellt das Leben dreier Schwestern völlig auf den Kopf.</desc>
 </programme>
+<programme start="20251013134500 +0000" stop="20251013144000 +0000" channel="1791">
+<title>Charmed - Zauberhafte Hexen</title>
+<desc>S7E15 ║ Feuer und Flamme ║ Mysteryserie
+Darryl bittet die Hexen um Hilfe, denn er befürchtet, dass sein Freund Mike von einem Geist namens George besessen ist. Phoebe, Paige und Drake finden heraus, dass dieser ominöse George 1899 bei einem Brand in einem Kabarett mit hunderten anderer ums Leben kam. George benutzt Mike, um so um Hilfe zu bitten, all die verlorenen Seelen zu erlösen. Phoebe und Drake reisen ins Jahr 1899, um George zu helfen, und stellen fest: Sie können nicht mehr in die Gegenwart zurückreisen.</desc>
+</programme>
 <programme start="20251011122000 +0000" stop="20251011151500 +0000" channel="1776">
 <title>Radsport: Lombardei-Rundfahrt</title>
 <desc>Übertragung, I 2025
@@ -4996,10 +4896,6 @@ Im letztjährigen Finale gewann Kyren Wilson mit 10:8 gegen Judd Trump. Nach dem
 </programme>
 <programme start="20251013130000 +0000" stop="20251013140000 +0000" channel="1775">
 <title>No information</title>
-</programme>
-<programme start="20251011125500 +0000" stop="20251011135000 +0000" channel="1774">
-<title>Nogomet Kvalifikacije za SP - Pregled (PETAK)</title>
-<desc>Sportski magazin posvećen kvalifikacijama za predstojeće Svjetsko prvenstvo u nogometu. Reprezentativci iz više od 200 zemalja svijeta bore se za mjesto na najvećoj svjetskoj nogometnoj smotri čije je...</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011160000 +0000" channel="1774">
 <title>UŽIVO: Košarka - Litvanska liga: Lietkabelis - Rytas</title>
@@ -5494,11 +5390,6 @@ Type: Serija; Genre: Tv-serijali; Cast: Kate Phillips, Stuart Martin, Suncica Mi
 <title>Velika i mala stvorenja</title>
 <desc>Džejms konačno ima uspeha sa projektom Ministarstva poljoprivrede. Tristan poziva na sastanak Florens Pendi, ćerku Zigfridovog rivala.
 Type: Serija; Genre: Tv-serijali; Cast: Nicholas Ralph, Sophie Mensah, Adrian Rawlins, Samuel West, Derek, Anna Madeley, Rachel Shenton, Callum Woodhouse, Lamin Touray,; Season no.: 3; Episode no.: 4; Director: Andy Hay; Release Year: 2022; Džejms konačno ima uspeha sa projektom Ministarstva poljoprivrede. Tristan poziva na sastanak Florens Pendi, ćerku Zigfridovog rivala.</desc>
-</programme>
-<programme start="20251011122500 +0000" stop="20251011134000 +0000" channel="981">
-<title>Muštuluk</title>
-<desc>Kao što nema dobre pesme bez harmonike, tako nema ni dobre zabave bez ozbiljnog domaćina.
-Type: Program; Genre: Info; Cast: ; Director: ; Release Year: ; Kao što nema dobre pesme bez harmonike, tako nema ni dobre zabave bez ozbiljnog domaćina. Haris Džinović ugostiće i ovaj put vrhunsku ekipu kolega Miru Škorić, Aleksandra Sofronijevića i Žiku Jakšića. Kako bi gosti rekli, nikad nije kasno za dobar provod, dobru klopu i muziku, a najbolje je uvek u Muštuluku sa Harisom te će gledaoci Una televizije uživati u sjajnoj muzici i atmosferi punoj smeha i dobrih vibracija. Ceneći Harisa kao pravog prijatelja i odličnog domaćina, gosti će u iskrenom razgovoru podeliti mnoge zajedničke događaje iz prošlih dana ali i čime se bave u ovom trenutku. Saznaćemo da Žika Jakšić menja profesiju i postaje pisac, kako je na fakultetu dobio nadimak &quot;Žika estrada&quot;, zašto Mira ima tremu kad peva pred Harisom, na koju pesmu od Triglava do Đevđelije svi padaju na teme kad je Haris zapeva i da li je danas moguće napraviti pravu zvezdu.</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011153000 +0000" channel="981">
 <title>Zašto baš on?</title>
@@ -6287,11 +6178,6 @@ Zapuštena i rastrojena žena dolazi pred fabriku s dvoje male dece i preti da �
 </programme>
 <programme start="20251012230000 +0000" stop="20251013010000 +0000" channel="1763">
 <title>LPGA Buick Shanghai: Day 4</title>
-</programme>
-<programme start="20251011130000 +0000" stop="20251011134500 +0000" channel="1148">
-<title>Unser Land in den 90ern</title>
-<desc>Griff nach den Sternen  1997
-Das Jahr 1997 stand ganz im Zeichen des Kometen Hale-Bopp. Der war mit bloßem Auge sichtbar. Und plötzlich war NRW das Land der Hobbyastronomen. Ganz anders erging es Reinhold Ewald, ein waschechter Astronaut aus Mönchengladbach. In Moskau ausgebildet, trat er seinen ersten Raumflug an. Nächster Halt: MIR, die russische Raumstation. In 90 Minuten um die Welt. Mit im Marschgepäck: ein Mixtape mit Space Music. So war das in den 90ern. Besonders bekannt ist das Ruhrgebiet für seinen rostroten Charme.</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011143000 +0000" channel="1148">
 <title>Unser Land in den 90ern</title>
@@ -7166,9 +7052,10 @@ Martin Scorcese gehört zu den ganz Großen im Filmgeschäft. Der Oscarpreisträ
 <desc>Klein aber fein
 Die Weihnachtsgeschenke, die sich Doug, Carrie und Arthur gegenseitig machen, treffen bei den Beschenkten nicht gerade auf Begeisterung..USA 1998</desc>
 </programme>
-<programme start="20251011125333 +0000" stop="20251011134933 +0000" channel="1655">
-<title>Gangs of Galicia E01</title>
-<desc>Gangs of Galicia E01</desc>
+<programme start="20251013134000 +0000" stop="20251013140500 +0000" channel="1644">
+<title>King of Queens</title>
+<desc>Liebe ist ...
+Carrie versucht sich erfolgreich als Kupplerin bei Spence. Als Doug versucht, die Beziehung seines Freundes voranzutreiben, schießt er gewaltig über das Ziel hinaus..USA 1998</desc>
 </programme>
 <programme start="20251011134933 +0000" stop="20251011143106 +0000" channel="1655">
 <title>Gangs of Galicia E02</title>
@@ -7482,10 +7369,6 @@ Die Weihnachtsgeschenke, die sich Doug, Carrie und Arthur gegenseitig machen, tr
 <title>UFC.on.ABC.3.Ortega.vs.Rodriguez.Prelims</title>
 <desc>UFC.on.ABC.3.Ortega.vs.Rodriguez.Prelims</desc>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011135000 +0000" channel="1570">
-<title>Dnevnik 1</title>
-<desc>Pratite Dnevnik 1, jednu od centralnih, informativnih emisija Radio Televizije Crne Gore i saznajte sve najvažnije vijesti.</desc>
-</programme>
 <programme start="20251011135000 +0000" stop="20251011142000 +0000" channel="1570">
 <title>Kultura sjećanja</title>
 </programme>
@@ -7794,6 +7677,10 @@ Die Weihnachtsgeschenke, die sich Doug, Carrie und Arthur gegenseitig machen, tr
 <programme start="20251013133000 +0000" stop="20251013135000 +0000" channel="1570">
 <title>Dnevnik 1</title>
 <desc>Pratite Dnevnik 1, jednu od centralnih, informativnih emisija Radio Televizije Crne Gore i saznajte sve najvažnije vijesti.</desc>
+</programme>
+<programme start="20251013135000 +0000" stop="20251013141800 +0000" channel="1570">
+<title>Mreža.me</title>
+<desc>Govorimo o ljudima, događajima, mjestima, problemima, o svemu što vas zanima. Vaše priče, interesantni gosti.</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011143500 +0000" channel="1375">
 <title>VTWonen: Weer verliefd op je huis</title>
@@ -8233,16 +8120,6 @@ Kortney en Dave zijn hard aan het werk om een bungalow in korte tijd op te knapp
 James Wilkes
 Kortney Wilson
 Dave Wilson.</desc>
-</programme>
-<programme start="20251011132500 +0000" stop="20251011134000 +0000" channel="1245">
-<title>Batwheels</title>
-<desc>Helfen macht Spaß
-2. Staffel, Folge 31: Buff kann Batwing für Freiwilligenarbeit begeistern und sie tun gute Taten für die Bürger von Gotham. Doch die Legion der Düser ist nicht weit. 15 Min..2023..Ab 0 Jahre</desc>
-</programme>
-<programme start="20251011134000 +0000" stop="20251011134500 +0000" channel="1245">
-<title>Krypto als Retter in Not</title>
-<desc>Halloween-Chaos
-1. Staffel, Folge 2: Als Krypto eine schwarze Katze über den Weg läuft, beschließt er, sie zu schnappen, bevor die Halloweennacht um ist. 13 Min..2025..Ab 0 Jahre</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011140000 +0000" channel="1245">
 <title>Krypto als Retter in Not</title>
@@ -9618,10 +9495,6 @@ Matthew Whelan.</desc>
 <title>Killers Game</title>
 <desc>Killers Game</desc>
 </programme>
-<programme start="20251011114840 +0000" stop="20251011133827 +0000" channel="1543">
-<title>The Circle (2017)</title>
-<desc>The Circle (2017)</desc>
-</programme>
 <programme start="20251011133827 +0000" stop="20251011153340 +0000" channel="1543">
 <title>The Bourne Ultimatum (2007)</title>
 <desc>The Bourne Ultimatum (2007)</desc>
@@ -9645,11 +9518,6 @@ Matthew Whelan.</desc>
 <programme start="20251011235433 +0000" stop="20251012021912 +0000" channel="1543">
 <title>Chaplin (1992)</title>
 <desc>Chaplin (1992)</desc>
-</programme>
-<programme start="20251011125500 +0000" stop="20251011135000 +0000" channel="1561">
-<title>Die Sopranos</title>
-<desc>Moralisten
-1. Staffel, Folge 9: Das FBI ist immer noch hinter den Sopranos her. Onkel Junior trifft in Boca Raton seine heimliche Liebe. Tony kommt nicht nur diesem Geheimnis auf die Spur - und bekommt Juniors Zorn zu spüren. 50 Min..USA 1998. Von Andy Wolk, mit James Gandolfini, Lorraine Bracco, Edie Falco..Ab 16 Jahren</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011144000 +0000" channel="1561">
 <title>Die Sopranos</title>
@@ -9840,12 +9708,6 @@ Matthew Whelan.</desc>
 <title>Die Sopranos</title>
 <desc>Lust, Leid und Laster
 4. Staffel, Folge 8: Tony hat eine Affäre mit Valentina, der heißen Gespielin seines Mafia-Kollegen Ralph. Tonys Frau Carmela muss ständig an Furio denken, der in Neapel auf der Beerdigung seines Onkels weilt. 54 Min..USA 2001. Von Daniel Attias, mit James Gandolfini, Lorraine Bracco, Edie Falco,  Joe Pantoliano..Ab 16 Jahren</desc>
-</programme>
-<programme start="20251011132000 +0000" stop="20251011134500 +0000" channel="1612">
-<title>The Big Bang Theory</title>
-<desc>S1E9 ║ Der Cooper-Hofstadter-Antagonismus ║ Sitcom
-Zwischen Sheldon und Leonard kommt es zu einem handfesten Streit.
-Den Physikern Sheldon und Leonard ist die &quot;normale&quot; Welt vollkommen fremd.</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011141000 +0000" channel="1612">
 <title>The Big Bang Theory</title>
@@ -10249,11 +10111,6 @@ Prikazujući ličnosti koje su oblikovale eru Premier lige, svaka će se epizoda
 <title>Engleska liga: PL Stories, fudbal</title>
 <desc>PL Stories</desc>
 </programme>
-<programme start="20251011130000 +0000" stop="20251011134500 +0000" channel="1566">
-<title>Kraljica ritma</title>
-<desc>La reina del flow
-Uzbudljiva priča o mladoj kompozitorki čiji se život nakon neočekivanih tragičnih događaja menja iz korena, a ona od vesele naivne devojčice postaje opasna osvetnica.</desc>
-</programme>
 <programme start="20251011134500 +0000" stop="20251011144500 +0000" channel="1566">
 <title>Kraljica ritma</title>
 <desc>La reina del flow
@@ -10446,14 +10303,6 @@ Jedna sasvim obična devojka dobija ponudu koju ne može da odbije, da osvoji na
 <programme start="20251013130000 +0000" stop="20251013144500 +0000" channel="1566">
 <title>Zaljubljeni neženja</title>
 <desc>Kiralik Ask</desc>
-</programme>
-<programme start="20251011125947 +0000" stop="20251011134536 +0000" channel="1522">
-<title>CSI: Miami</title>
-<desc>Wölfe zur Sonnenfinsternis
-An einem Hotelpool wird während einer Sonnenfinsternis Ronnie Temple mit einer Drahtschlinge ermordet. Neben ihm steht ein kleiner, leerer Aluminiumkoffer. Spuren führen zu Mario Montero, der zugibt, Temple nach dessen Tod beklaut zu haben.</desc>
-</programme>
-<programme start="20251011134536 +0000" stop="20251011134537 +0000" channel="1522">
-<title>Leider keine Programminformationen vorhanden</title>
 </programme>
 <programme start="20251011134537 +0000" stop="20251011143123 +0000" channel="1522">
 <title>CSI: Miami</title>
@@ -11995,6 +11844,10 @@ Putopisno-ribolovački serijal.</desc>
 <title>Tito, crveno i crno-Rekvijem za maršala 24.em ®</title>
 <desc>Tito: Crveno i crno</desc>
 </programme>
+<programme start="20251013134400 +0000" stop="20251013143700 +0000" channel="1493">
+<title>Fantastična planeta 2C-Tajna planeta 9.em ®</title>
+<desc>Fantastična planeta</desc>
+</programme>
 <programme start="20251011130000 +0000" stop="20251011150000 +0000" channel="1231">
 <title>Rocky 2</title>
 <desc>Rocky II
@@ -12098,18 +11951,6 @@ Vincent Downs lasvegaški je policajac koji, zahvaljujući korumpiranom kolegi, 
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="1231">
 <title>Bez grižnje savjesti</title>
 <desc>Without Remorse</desc>
-</programme>
-<programme start="20251011131500 +0000" stop="20251011134000 +0000" channel="1336">
-<title>Ninjago: La rivolta dei draghi</title>
-<desc>S2E7 ║ Una folle fuga ║ 2024 ║ 6+ ║ CA, DK
-Cole e Zane consegnano Bonzle alla sua creatrice a Mysterium e vengono seguiti. Sorge la Luna di Sangue che interrompe l&apos;addestramento dei Ninja.
-Rich Johnson, Daniel Ife.</desc>
-</programme>
-<programme start="20251011134000 +0000" stop="20251011135000 +0000" channel="1336">
-<title>Lo straordinario mondo di Gumball</title>
-<desc>S4E9 ║ La peste ║ 2015 ║ 6+ ║ GB, IE, US
-Anais è arrabbiata con un bambino che le fa sempre i dispetti e la tratta male. Così, Gumball e Darwin tentano di aiutarla a risolvere il problema senza fare ricorso alla violenza.
-Mic Graves.</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011140500 +0000" channel="1336">
 <title>Lo straordinario mondo di Gumball</title>
@@ -13255,6 +13096,11 @@ Nel bel mezzo della recente crisi di Ellen, Nate è indifferente, ma quando si r
 <desc>S2E21 ║ The Enigmatic Labyrinth of Fear ║ 2025 ║ JP
 Robin Kazami si trova escluso dalla squadra in seguito ad una scottante sconfitta. Fortunatamente per lui, incontra l&apos;ex campione Jaxon Cross e i due uniscono le forze per formare una nuoca squadra.
 Katsuhito Akiyama, Suto Terada.</desc>
+</programme>
+<programme start="20251013134500 +0000" stop="20251013141500 +0000" channel="1336">
+<title>Orizzonti Pokémon</title>
+<desc>S2E26 ║ Incontri al Lago Cristallìo ║ 2025 ║ 12+ ║ JP
+Mentre sono sulle tracce della professoressa Rea, studiosa di Terapagos, Liko, Roy, Dot e Friede giungono finalmente al Lago Cristallìo. Ma non c&apos;è da rilassarsi, perché un Milotic, solitamente pacifico, li attacca e si teracristallizza.</desc>
 </programme>
 <programme start="20251011122000 +0000" stop="20251011143000 +0000" channel="1335">
 <title>Rugby: Serie A Elite maschile</title>
@@ -15597,11 +15443,6 @@ Liza Weil
 Sean Gunn
 Matt Czuchry
 Edward Herrmann.</desc>
-</programme>
-<programme start="20251011131200 +0000" stop="20251011133900 +0000" channel="1329">
-<title>Dragon Ball Super</title>
-<desc>S1E127 ║ Il muro finale! Una barriera per non perdere ogni speranza ║ 2018 ║ 12+ ║ JP
-E&apos; scontro aperto tra Jiren, Goku, Vegeta e C-17. Il campione dell&apos;Undicesimo Universo sembra imbattibile e vanifica ogni attacco contro di lui. Nemmeno l&apos;intervento di Freezer cambia la situazione.</desc>
 </programme>
 <programme start="20251011133900 +0000" stop="20251011140600 +0000" channel="1329">
 <title>Dragon Ball Super</title>
@@ -18087,6 +17928,11 @@ Una completa panoramica quotidiana sulle sedute della Camera dei Deputati e del 
 <desc>2024 ║ IT
 In diretta dallo studio della TGR Lazio, le tappe di questo importante appuntamento religioso, con collegamenti esterni, ospiti e servizi. Inoltre, tutto ciò che ruoterà intorno a Roma, dove sono attesi oltre 35 milioni di pellegrini per l&apos;occasione.</desc>
 </programme>
+<programme start="20251013134500 +0000" stop="20251013143500 +0000" channel="1121">
+<title>Articolo 1</title>
+<desc>2025
+Articolo 1 racconta le storie di tre vite spezzate da incidenti sul lavoro. Lucia, giovane madre rimasta vedova, ricorda il marito operaio stradale travolto da una frana in cantiere, dei sogni sgretolati e la fatica di crescere due bambini da sola.</desc>
+</programme>
 <programme start="20251011131400 +0000" stop="20251011140200 +0000" channel="1434">
 <title>Alien Highway 1, ep. 2.</title>
 <desc>A Missouri man who claims UFOs are stalking him contacts Chuck and the team for help. Their investigation uncovers a dark secret which may explain this reported activity.</desc>
@@ -19231,11 +19077,6 @@ Type: Film; Genre: Bioskopski film; Cast: Brus Vilis, Sarah Jessica Parker, Denn
 <title>Decisiv</title>
 <desc>Urmărește cele mai importante subiecte ale zilei, dezbătute pe larg, în cadrul emisiunii.</desc>
 </programme>
-<programme start="20251011131500 +0000" stop="20251011134500 +0000" channel="1131">
-<title>Willkommen in Gravity Falls</title>
-<desc>Die Höhle des Autoren Zeichentrick-Serie, USA 2014
-Die Zwillinge Dipper und Mabel Pines erleben ein unerwartetes Abenteuer, als sie den Sommer mit ihrem Großonkel in dem geheimnisvollen Ort Gravity Falls in Oregon verbringen. Bei ihrer Ankunft gewinnt ihr Großonkel, ein Profitmacher, der auch Gronkel Stan genannt wird, die Geschwister für die Mithilfe in der Mystery Shack, seiner lustigen Touristenfalle, mit der er arglose Kunden über den Tisch zieht.</desc>
-</programme>
 <programme start="20251011134500 +0000" stop="20251011141500 +0000" channel="1131">
 <title>Willkommen in Gravity Falls</title>
 <desc>Der Minigolf-Wettbewerb Zeichentrick-Serie, USA 2014
@@ -19670,10 +19511,10 @@ Folge 9,</desc>
 <desc>Eine starke Hand / Arbeitsfreundinnen Animations-Serie, USA 2023
 Folge 84,</desc>
 </programme>
-<programme start="20251011125000 +0000" stop="20251011134000 +0000" channel="1130">
-<title>Geheime Welten - Reise in die Tiefe</title>
-<desc>Häfen * Dokumentation, GB 2021
-Eine zufällige Entdeckung veränderte die Zukunft der Stirling Hill Mine.</desc>
+<programme start="20251013134000 +0000" stop="20251013141500 +0000" channel="1131">
+<title>Mystery Lane - Ein Fall für Clever und Bro</title>
+<desc>Die geheime Horde Animations-Serie, F 2023
+Folge 17,</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011143500 +0000" channel="1130">
 <title>Geheime Welten - Reise in die Tiefe</title>
@@ -19974,6 +19815,11 @@ Dokumentationsreihe * Was ist das mysteriöse Wesen, das auf einem Dachboden gef
 <title>The Proof is Out There - Auf den Spuren des Unerklärlichen</title>
 <desc>Geräusche aus dem All, USA 2022
 Dokumentationsreihe * Geräusche, die auf dem Mars aufgezeichnet wurden, könnten eine außerirdische Botschaft sein.</desc>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013142500 +0000" channel="1130">
+<title>The UnXplained mit William Shatner</title>
+<desc>Wahrsager und Propheten, USA 2023
+Dokumentationsreihe * Sind manche Vorhersagen tatsächlich echte Einblicke in die Zukunft?</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1127">
 <title>Fringe - Grenzfälle des FBI</title>
@@ -20284,6 +20130,11 @@ Mit Lindsay Greenbush, Richard Bull, Dabbs Greer, u.a. * Mary lernt für einen G
 <title>Unsere kleine Farm</title>
 <desc>Lauras Eifersucht (1) (13), USA 1974
 Familiensaga * Mit Michael Landon, Karen Grassle, Melissa Gilbert, u.a. * Caroline hat einen kleinen Jungen auf die Welt gebracht und die Familie scheint nun komplett zu sein. Doch das Schicksal meint es nicht gut mit den Ingalls. Während Laura eifersüchtig auf ihren kleinen Bruder ist, erkrankt der Junge schwer. Laura weigert sich, für ihn zu beten, bekommt aber schreckliche Schuldgefühle, als sich sein Zustand verschlechtert.</desc>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013142500 +0000" channel="1127">
+<title>Rizzoli &amp; Isles</title>
+<desc>Klassentreffen (13) * Krimiserie
+USA 2011 * Mit Angie Harmon, Sasha Alexander, Lorraine Bracco, u.a. * Die temperamentvolle Jane Rizzoli ist Detective bei der Bostoner Mordkommission. Mit ihren beiden Kollegen, dem erfahrenen Vince Korsak und dem Neuling Barry Frost, versteht sie sich gut. Am besten arbeitet sie jedoch mit ihrer Freundin, der sachlichen und analytischen Gerichtsmedizinerin Maura Isles, zusammen. Gemeinsam klären sie jedes Verbrechen auf und überführen raffinierte Mörder.</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1126">
 <title>FBI: Special Crime Unit</title>
@@ -21024,6 +20875,10 @@ Nostalgische Liebeskomödie von und mit Genre-Star Meg Ryan: Willa strandet an e
 <title>Imaginary</title>
 <desc>Imaginary</desc>
 </programme>
+<programme start="20251013133859 +0000" stop="20251013152628 +0000" channel="742">
+<title>Jennifers Body - Jungs nach ihrem Geschmack</title>
+<desc>Jennifers Body - Jungs nach ihrem Geschmack</desc>
+</programme>
 <programme start="20251011133000 +0000" stop="20251011135500 +0000" channel="902">
 <title>Sonic Prime</title>
 <desc>Kein Ort ist auch ein Ort (7)
@@ -21628,16 +21483,6 @@ Zeichentrickserie, USA 2020 * Mit Asher Bishop, Jessica DiCicco, Grey Griffin, u
 <title>Willkommen bei den Louds</title>
 <desc>Alles auf Neu! * Zeichentrickserie
 USA 2020 * Mit Asher Bishop, Catherine Taber, Liliana Mumy, u.a. * Der elfjährige Lincoln Loud ist der einzige Junge in seiner Großfamilie und hat noch zehn Schwestern. Lincoln will die Klasse wechseln, nachdem er von seiner Clique ausgeschlossen wurde, doch er landet schließlich in Kanada. Lori passt in keinem der Flure des Studentenwohnheims wirklich hinein. Mom und Dad müssen sich beeilen, Lily ans Töpfchen heranzuführen, damit sie in die Kita gehen kann.</desc>
-</programme>
-<programme start="20251011132000 +0000" stop="20251011134000 +0000" channel="876">
-<title>Monster Loving Maniacs</title>
-<desc>Die Banshee
-Edie, Ernest und Bo treffen auf Banshee Aeval, die vor dem Tod eines älteren Bewohners warnt. Die Freunde eilen nach Hause, um Arthur zu schützen, der sich jedoch nicht bewusst ist, irischer Abstammung zu sein und sich mit Aeval anfreundet.</desc>
-</programme>
-<programme start="20251011134000 +0000" stop="20251011135000 +0000" channel="876">
-<title>Monster Loving Maniacs</title>
-<desc>Comedy-Nachhilfe
-Lana, die Schlossbesitzerin aus Gruselbruch, droht ihr Schloss samt Monsterbewohner an Victor van Helsing zu verkaufen, da das Publikum ausbleibt, nachdem Grimface Bummelfuß auf Comedy umgestiegen ist. Arthur soll helfen.</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011140000 +0000" channel="876">
 <title>Monster Loving Maniacs</title>
@@ -22266,6 +22111,11 @@ Crimson Lord hat mal wieder einen Splitter gefunden und in seinen Besitz gebrach
 <desc>Das Fast-Food-Rennen
 Scooby und Shaggy wollen an dem Fast-Food-Wettessen der Doc-Tally-Restaurantkette teilnehmen. Dort treten sie gegen ihren größten Konkurrenten, Jim Gaffigan an.</desc>
 </programme>
+<programme start="20251013134000 +0000" stop="20251013140500 +0000" channel="876">
+<title>Woozle Goozle</title>
+<desc>Brücken &amp; Milch
+&quot;Brücken&quot;: Woozle und Simón moderieren heute lieber getrennt über das Thema &quot;Brücken&quot;.&quot;Milch&quot;: Heute geht es bei Woozle und Simón um ein ganz besonderes Getränk: Milch. Und deshalb wollen sie ihr Leibgericht kochen - Milchreis.</desc>
+</programme>
 <programme start="20251011132000 +0000" stop="20251011141500 +0000" channel="1396">
 <title>Der Albtraum nebenan</title>
 <desc>Musikterror aus dem Nachbarhaus, GB 2014
@@ -22586,10 +22436,10 @@ USA 2020 * Heute verhandelt Richterin Judy Sheindlin zwei unterschiedliche Schad
 <desc>Streit im Wohnblock * Doku-Soap
 USA 2020 * Stress in der Seniorenresidenz: Nachdem ein Mann angeblich behauptet hat, seine Nachbarin hätte ein Alkoholproblem und sie würde illegal Flohmärkte veranstalten, wurde der Mieterin gekündigt. Nun hat die Betroffene namens Vickie Anzeige wegen übler Nachrede erstattet. Die Klägerin möchte zudem die Kosten für den Umzug von ihrem ehemaligen Nachbarn bezahlt bekommen. Richterin Judy Sheindlin muss zunächst feststellen, ob der Tatvorwurf der Verleumdung überhaupt zutrifft. Denn im Laufe der Verhandlung stellt sich die Faktenlage plötzlich ganz anders dar...</desc>
 </programme>
-<programme start="20251011125000 +0000" stop="20251011134000 +0000" channel="683">
-<title>Akte X - Die unheimlichen Fälle des FBI</title>
-<desc>Augenblicke * Mysteryserie, USA/CDN 2000
-Mit David Duchovny, Gillian Anderson, Carol Banker, u.a. * Während Fox Mulder in Großbritannien weilt, trifft FBI-Agentin Dana Scully rein zufällig ihren ehemaligen Lehrer und Liebhaber Daniel wieder. Wie sich herausstellt, ist Daniel so schwer krank, dass Scully einen taotischen Medizinmann konsultiert. Dessen Bemühungen zweigen Wirkung und Daniel geht es besser. Er hofft auf eine Wiederbelebung der Beziehung. Doch Scullys Herz ist bereits vergeben.</desc>
+<programme start="20251013134000 +0000" stop="20251013140000 +0000" channel="1396">
+<title>Judge Judy - Die Richterin</title>
+<desc>Freundschaftsdienste * Doku-Soap
+USA 2020 * Fall 39: Moreno gegen Munoz. Silvia verklagt ihre jüngeren Stiefschwestern Julie und Clara auf Schmerzensgeld. Der Zickenkrieg in den heimischen vier Wänden ist derart eskaliert, dass es unter den Mädels zu Handgreiflichkeiten - und bei der Klägerin sogar zu einer gebrochenen Nase - gekommen ist! Da Aussage gegen Aussage steht, hat Silvia allerdings schlechte Karten. Im zweiten Fall der Folge entpuppt sich &quot;Judge Judy&quot; als echte Weinexpertin, als sie in einem Dienstleister erklären muss, wie man ein professionell temperiertes Weinlager baut.</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011142500 +0000" channel="683">
 <title>Akte X - Die unheimlichen Fälle des FBI</title>
@@ -23488,6 +23338,11 @@ Der Chirurg Dr. Eric Mercer wird von einem Killer im Weihnachtsmannkostüm ersch
 <title>Castle</title>
 <desc>Privatdetektiv Richard Castle.Crime-Serie, USA 2014.Altersfreigabe: ab 12
 Castle hat einen Weg gefunden, das Ermittlungsverbot bei der Polizei zu umgehen: Er hat sich kurzerhand eine Detektiv-Lizenz besorgt! So ist es ihm nach einigen ermittlungstechnischen Rangeleien möglich, Beckett bei ihrem neuesten Fall zu unterstützen. Die Mitarbeiterin einer Privatschule wurde erschossen, und der Hauptverdächtige ist ein Staatsanwalt. Doch Castle gelingt es mit einem ungewöhnlichen Trick, den Mann zu entlasten..Regie: Milan Cheylov.Drehbuch: Rob Hanning..Darsteller:.Nathan Fillion (Richard Castle).Stana Katic (Kate Beckett).Molly C. Quinn (Alexis Castle).Seamus Dever (Kevin Ryan).Susan Sullivan (Martha Rodgers).Jon Huertas (Javier Esposito).Tamala Jones (Lanie Parish).Penny Johnson (Captain Victoria Gates).Alimi Ballard (Frank Jackson)</desc>
+</programme>
+<programme start="20251013134600 +0000" stop="20251013135812 +0000" channel="836">
+<title>Kabel Eins :newstime</title>
+<desc>Kabel Eins :newstime.Information, D 2025
+Nachrichten live aus München: Die Kabel Eins :newstime informiert die Zuschauer:innen über die wichtigsten Themen des Tages aus Politik, Wirtschaft, Sport und Gesellschaft. Angela van Brakel und Norbert Anwander moderieren die Nachrichtensendung im Wechsel.</desc>
 </programme>
 <programme start="20251011131500 +0000" stop="20251011141000 +0000" channel="1207">
 <title>Bares für Rares</title>
@@ -24513,24 +24368,6 @@ In der Vorabendserie mit norddeutschem Lokalkolorit begeben sich die Ermittler a
 <title>Death in Paradise</title>
 <desc>E3 ║ Freier Fall ║ Krimiserie
 Inspector Richard Poole wird von London in die Karibik geschickt, um das Gewaltverbrechen an einem seiner Kollegen aufzuklären. Für jeden anderen ist die Karibik wohl ein Traumort zum Arbeiten - doch Poole hasst Sonne, Strand und Meer.</desc>
-</programme>
-<programme start="20251011133100 +0000" stop="20251011133700 +0000" channel="1315">
-<title>Oliver</title>
-<desc>U ovoj aktivnoj istraživačkoj seriji, Oliver vodi gledatelje na svoja omiljena mjesta u kući i na otvorenom. Kao i mnoga druga znatiželjna djeca, Oliver se penje, skače, dira i kuša sve što može dobiti u svoje ruke!</desc>
-</programme>
-<programme start="20251011133700 +0000" stop="20251011134000 +0000" channel="1315">
-<title>Charlie’s World</title>
-<desc>Charlie’s World</desc>
-</programme>
-<programme start="20251011134000 +0000" stop="20251011134400 +0000" channel="1315">
-<title>Svijet je čudo</title>
-<desc>The World is a Wonder
-Priroda je puna čuda i iznenađenja. Svijet je čudo je uzbudljiva i intrigantna emisija koja potiče vaše mališane da uče i otkrivaju čarobne preobrazbe prirode uz vizualne elemente i slike koje je lako pratiti – nevjerojatne životne cikluse životinja, kako biljke rastu, godišnja doba, kako se gusjenice pretvaraju u leptire i još mnogo toga s ljupkom vilom Gaiom.</desc>
-</programme>
-<programme start="20251011134400 +0000" stop="20251011135000 +0000" channel="1315">
-<title>Zeinina detektivska agencija 1, ep. 5.</title>
-<desc>Zeina’s Detective Agency
-A paintbrush arrives at Zeina’s doorstep, forgetting what it is used for. Using her detective skill and her best friend Roy, Zeina discovers that a paintbrush is used for raking leaves... is it?</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011135500 +0000" channel="1315">
 <title>Dobrodošli na otok</title>
@@ -27295,10 +27132,21 @@ Vrijeme je da usporite i opustite se.</desc>
 <programme start="20251013133600 +0000" stop="20251013133800 +0000" channel="1315">
 <title>Charlie’s World</title>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011134000 +0000" channel="832">
-<title>Glazbena kutija 1, ep. 18.</title>
-<desc>Glazbena kutija
-‘Glazbena kutija’ je zabavno-edukativni format koji nas upoznaje s glazbenim instrumentima koji čine orkestar. Kroz ovu emisiju želimo približiti mališanima, ali i onima malo starijima, svijet glazbala. Tako će gledatelji imati priliku čuti izvedbe instrumenata, iskustva mladih svirača i nekoliko riječi nastavnika o pojedinom instrumentu. Svi ljubitelji glazbe uživat će u emisiji, a oni koji imaju skrivenu želju naučiti svirati neki instrument, sigurno će biti potaknuti da se okušaju....</desc>
+<programme start="20251013133800 +0000" stop="20251013134300 +0000" channel="1315">
+<title>Svijet je čudo</title>
+<desc>The World is a Wonder</desc>
+</programme>
+<programme start="20251013134300 +0000" stop="20251013134900 +0000" channel="1315">
+<title>Zeinina detektivska agencija 1, ep. 7.</title>
+<desc>Zeina’s Detective Agency</desc>
+</programme>
+<programme start="20251013134900 +0000" stop="20251013135400 +0000" channel="1315">
+<title>Dobrodošli na otok</title>
+<desc>Welcome to the Island</desc>
+</programme>
+<programme start="20251013135400 +0000" stop="20251013135800 +0000" channel="1315">
+<title>Učionica Mrve i Mrvice</title>
+<desc>Teeny &amp; Tiny’s Classroom</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011135500 +0000" channel="832">
 <title>Robocar Poli 1, ep. 42.</title>
@@ -28167,6 +28015,10 @@ Sportske igre mladih promiču način života čiji su temelji razumijevanje, pri
 <programme start="20251013133000 +0000" stop="20251013134000 +0000" channel="832">
 <title>Glazbena kutija 1, ep. 20.</title>
 <desc>Glazbena kutija</desc>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013135500 +0000" channel="832">
+<title>Robocar Poli 1, ep. 44.</title>
+<desc>Robocar Poli I.</desc>
 </programme>
 <programme start="20251011133527 +0000" stop="20251011150115 +0000" channel="747">
 <title>Aliens in the Attic</title>
@@ -29325,6 +29177,11 @@ Type: Film; Genre: Bioskopski film; Cast: Marko Nikolić, Žarko Radić, Ljubiš
 <title>T.T. Sindrom</title>
 <desc>Grupa mladih ljudi kreće u provod u Beogradu. Jedan od momaka je opsednut snimanjem video kamerom, jer mu tako stvarnost izgleda snošljivija.
 Type: Film; Genre: Bioskopski film; Cast: Nikola Đuričko, Branko Vidaković, Nebojša Glogovac, Feđa Stojanović, Dušica Žegarac, Ljubinka Klarić, Boris Komnenić, Džemail Ma; Director: Dejan Zečević; Release Year: 2002; Grupa mladih ljudi kreće u provod u Beogradu. Jedan od momaka je opsednut snimanjem video kamerom, jer mu tako stvarnost izgleda snošljivija. Drugi pak, odlučuje u ime kolektiva da ulepša veče s nešto belog praha. Primopredaja je zakazana u bivšem turskom kupatilu, a sada javnom klozetu čije su prostorije, po svoj prilici, uklete od slučaja čedomorstva nekoliko decenija ranije. Umesto odlaska na žurku i dobrog provoda, oni ostaju zaključani u javnom kupatilu na padinama Kalemegdana koji krije stravičnu tajnu u katakombama iznad kojih je sagrađen. Tamo ih čeka niz nimalo simpatičnih likova, uključujući i masovnog ubicu.</desc>
+</programme>
+<programme start="20251013135000 +0000" stop="20251013143800 +0000" channel="853">
+<title>Doba Dunđerskih</title>
+<desc>Dokumentarno igrani film donosi predivnu priču o odnosu pesnika Laze Kostića i najmlađe Lazareve ćerke Jelene - Lenke, kojoj je u čast napisao po mnogima najlepšu srpsku pesmu &quot;Santa Maria della.
+Type: Film; Genre: Televizijski film; Cast: Igor Pervić, Anđela Jovanović, Una Đelošević, Gordana Josić, Nikola Milojević, Predrag Momčilović, Aleksandra Pejić, Miodrag Pet; Director: Marko Marinković; Release Year: 2014; Dokumentarno igrani film donosi predivnu priču o odnosu pesnika Laze Kostića i najmlađe Lazareve ćerke Jelene - Lenke, kojoj je u čast napisao po mnogima najlepšu srpsku pesmu &quot;Santa Maria della salute&quot;. Dok se borio da reši pretešku situaciju u kojoj se našao, Laza je na sve načini sakrivao svoju simpatiju ka Lenki. Na kraju je čak i učestvovao u naporima da joj se nađe mladoženja obraćajući se svom prijatelju Nikoli Tesli sa planom da on oženi najbogatiju i najpoželjniju srpsku udavaču tog vremena. Svu tu intrigu prekinula je Lenkina iznenadna smrt u jednom bečkom hotelu.</desc>
 </programme>
 <programme start="20251011130000 +0000" stop="20251011135700 +0000" channel="890">
 <title>Bandolera</title>
@@ -30857,6 +30714,13 @@ A popular science programme where common beliefs are put to the test of experime
 <title>Rok Legende</title>
 <desc>Rock Legends</desc>
 </programme>
+<programme start="20251013134700 +0000" stop="20251013135200 +0000" channel="746">
+<title>Svetska baština</title>
+</programme>
+<programme start="20251013135200 +0000" stop="20251013135700 +0000" channel="746">
+<title>Nobelova nagrada</title>
+<desc>Nobel prize</desc>
+</programme>
 <programme start="20251011110500 +0000" stop="20251011140000 +0000" channel="730">
 <title>Najbolje namjere</title>
 <desc>Den goda viljan
@@ -31187,26 +31051,6 @@ Svačiji omiljeni vratolomac Johnny Knoxville vraća se svojim smiješno bolnim 
 <programme start="20251013130100 +0000" stop="20251013150000 +0000" channel="841">
 <title>Pravedan zločin</title>
 <desc>Stealing Harvard</desc>
-</programme>
-<programme start="20251011133500 +0000" stop="20251011134000 +0000" channel="696">
-<title>Knez - Snijeg pade na behar na voće</title>
-<desc>Knez
-Uživajte u hitovima Kneza.</desc>
-</programme>
-<programme start="20251011134000 +0000" stop="20251011134300 +0000" channel="696">
-<title>Severina - Gade</title>
-<desc>Severina
-Popularni hitovi pjevačice Severine.</desc>
-</programme>
-<programme start="20251011134300 +0000" stop="20251011134700 +0000" channel="696">
-<title>Sergej Ćetković - Prutem po vodi</title>
-<desc>Sergej Ćetković
-Uživajte u popularnim hitovima.</desc>
-</programme>
-<programme start="20251011134700 +0000" stop="20251011135200 +0000" channel="696">
-<title>Toše Proeski ft. Gianna Nannini - Aria</title>
-<desc>Toše Proeski
-Uživajte u hitovima Toše Proeskog.</desc>
 </programme>
 <programme start="20251011135200 +0000" stop="20251011135500 +0000" channel="696">
 <title>Bojan Marović - Koliko te volim ja</title>
@@ -33939,6 +33783,22 @@ Uživajte u popularnim hitovima.</desc>
 <title>Severina - Alkatraz</title>
 <desc>Severina</desc>
 </programme>
+<programme start="20251013134000 +0000" stop="20251013134400 +0000" channel="696">
+<title>Željko Joksimović - Isto je</title>
+<desc>Željko Joksimović</desc>
+</programme>
+<programme start="20251013134400 +0000" stop="20251013134700 +0000" channel="696">
+<title>Jelena Tomasević - Da mi je da mi se vrati</title>
+<desc>Jelena Tomašević</desc>
+</programme>
+<programme start="20251013134700 +0000" stop="20251013135100 +0000" channel="696">
+<title>Miligram - Apsolutna ljubav</title>
+<desc>Miligram</desc>
+</programme>
+<programme start="20251013135100 +0000" stop="20251013135600 +0000" channel="696">
+<title>Oliver Mandić - Odlazim a volim te</title>
+<desc>Oliver Mandić</desc>
+</programme>
 <programme start="20251011130000 +0000" stop="20251011140000 +0000" channel="692">
 <title>Spoji me u inozemstvu 2, ep. 9.</title>
 <desc>Match Me Abroad
@@ -35256,10 +35116,6 @@ Michaelovo i Jamiejevo rivalstvo dovedeno je do krajnjih granica.</desc>
 <title>Warlock.1959</title>
 <desc>Warlock.1959</desc>
 </programme>
-<programme start="20251011114704 +0000" stop="20251011133804 +0000" channel="707">
-<title>Sharp Corner</title>
-<desc>Sharp Corner</desc>
-</programme>
 <programme start="20251011133804 +0000" stop="20251011152531 +0000" channel="707">
 <title>A House on Fire</title>
 <desc>A House on Fire</desc>
@@ -35517,6 +35373,9 @@ Plavi? Crveni? Naši? Njihovi? Tko je bolji, kome nedostaje vratar? Ima li tradi
 <programme start="20251013115500 +0000" stop="20251013134500 +0000" channel="898">
 <title>Jedrenje, SP Zvijezda Split</title>
 </programme>
+<programme start="20251013134500 +0000" stop="20251013150000 +0000" channel="898">
+<title>Hrvanje Zagreb - Petrinja</title>
+</programme>
 <programme start="20251011133000 +0000" stop="20251011140000 +0000" channel="1300">
 <title>Champions League: Magazin Episodul 6</title>
 </programme>
@@ -35762,9 +35621,6 @@ Plavi? Crveni? Naši? Njihovi? Tko je bolji, kome nedostaje vratar? Ima li tradi
 </programme>
 <programme start="20251013133000 +0000" stop="20251013140000 +0000" channel="1300">
 <title>European Qualifiers: Rezumat</title>
-</programme>
-<programme start="20251011124500 +0000" stop="20251011134500 +0000" channel="1287">
-<title>LIVE Asii Tenisului</title>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011140000 +0000" channel="1287">
 <title>LIVE Stirile Digi Sport</title>
@@ -37823,9 +37679,6 @@ Type: Program; Genre: Fudbal; Cast: ; Director: ; Release Year: ; Koje će fudba
 <title>Fudbal - Engleska liga: Leeds - Tottenham</title>
 <desc>Svakog avgusta 20 ekipa započinje lov na najcenjeniji trofej engleskog fudbala. Engleska Premier liga u formatu u kojem se danas igra osnovana je 1992. godine kao nastavak na Englesku ligu osnovanu davne 1888. Sezona traje do maja u dvokružnom sistemu gde svaka ekipa kroz sezonu odigra 38 utakmica. Prvi osvajač prvenstva je najtrofejniji engleski fudbalski klub, Mančester Junajted.</desc>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011135000 +0000" channel="699">
-<title>Vesti</title>
-</programme>
 <programme start="20251011135000 +0000" stop="20251011163000 +0000" channel="699">
 <title>Везилка</title>
 <desc>Vezilka</desc>
@@ -37957,6 +37810,9 @@ Movie name is yet to be announced by this channel.</desc>
 </programme>
 <programme start="20251013133000 +0000" stop="20251013135000 +0000" channel="699">
 <title>Vesti</title>
+</programme>
+<programme start="20251013135000 +0000" stop="20251013143000 +0000" channel="699">
+<title>Sedmica</title>
 </programme>
 <programme start="20251011133000 +0000" stop="20251011140500 +0000" channel="790">
 <title>Vesti</title>
@@ -38578,6 +38434,10 @@ Priča o maloj plaćeničkoj jedinici vojnika koju je guverner jedne afričke d
 <programme start="20251013131500 +0000" stop="20251013134000 +0000" channel="873">
 <title>Pozor, snemamo 2, ep. 9.</title>
 <desc>Making the Movies II.</desc>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013153000 +0000" channel="873">
+<title>Ljubav na prvi ples</title>
+<desc>Love at the First Dance</desc>
 </programme>
 <programme start="20251011121200 +0000" stop="20251011151500 +0000" channel="861">
 <title>Kolesarstvo: Dirka po Lombardiji</title>
@@ -39715,10 +39575,6 @@ Pregled programa.</desc>
 <programme start="20251013130000 +0000" stop="20251013140000 +0000" channel="731">
 <title>Sa Vahidinom kroz Podrinje</title>
 </programme>
-<programme start="20251011114000 +0000" stop="20251011134500 +0000" channel="1647">
-<title>10 STVARI ILI MANJE ®</title>
-<desc>10 ITEMS OR LESS</desc>
-</programme>
 <programme start="20251011134500 +0000" stop="20251011151500 +0000" channel="1647">
 <title>MAGIJA NA OSTRVU BEL ®</title>
 <desc>MAGIC OF BELLE ISLE</desc>
@@ -40039,10 +39895,6 @@ BN Radio je popularna radio emisija na BN muzičkom kanalu koja donosi najnovije
 </programme>
 <programme start="20251013132000 +0000" stop="20251013140000 +0000" channel="910">
 <title>Muzički izlog</title>
-</programme>
-<programme start="20251011125000 +0000" stop="20251011134500 +0000" channel="734">
-<title>To sam ja</title>
-<desc>Ne propustite najistaknutije estradne umjetnike i muzičare.</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011140000 +0000" channel="734">
 <title>Crveni tepih</title>
@@ -41927,11 +41779,6 @@ Producenti su inzistirali da ovaj, šesti nastavak „Strave u Ulici brijestova�
 <title>Biostile - Vaše zdravlje, naša briga</title>
 <desc>Program za sve ljubitelje kupovine iz topline svog doma, bez odlaska bilo gde! Tv prodaja je pravo mesto za vas!</desc>
 </programme>
-<programme start="20251011124000 +0000" stop="20251011134000 +0000" channel="1800">
-<title>Hautnah: Die Tierklinik</title>
-<desc>Folge 32
-Max macht seinen Besitzern große Sorgen. Der Bolonka Zwetna Rüde frisst alles, was ihm vor die Schnauze fällt. Diesmal scheint Max einen Christstollen verputzt zu haben. Das ist bei Hunden, anders als bei Menschen, lebensgefährlich.</desc>
-</programme>
 <programme start="20251011134000 +0000" stop="20251011144500 +0000" channel="1800">
 <title>Die Pferdeprofis</title>
 <desc>Folge 6
@@ -42187,9 +42034,10 @@ Daniel Naumann ist geschockt, als seine Frau Laura beim gemeinsamen Einkaufen pl
 <desc>Auf der Straße der Entbehrung
 Die junge Daycia Fox wird tot im Pool eines leerstehenden Hauses gefunden. Die Obduktion ergibt jedoch, dass die Patientin einer Entzugsklinik in Badewasser ertrunken ist. Unter Verdacht gerät zunächst der Klinikleiter Adam King.</desc>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011135000 +0000" channel="1442">
-<title>Dnevnik 1</title>
-<desc>Pratite Dnevnik 1, jednu od centralnih, informativnih emisija Radio Televizije Crne Gore i saznajte sve najvažnije vijesti.</desc>
+<programme start="20251013134000 +0000" stop="20251013142500 +0000" channel="1800">
+<title>CSI: Vegas</title>
+<desc>Man stirbt nur zweimal
+Nick und Greg untersuchen den Tod von Jimmy Turelli, der schwer verletzt in der Wüste verscharrt worden war. Kurz nachdem ihm dann die Flucht aus seinem Grab gelang, wurde er von einem Auto überfahren und dabei tödlich verletzt.</desc>
 </programme>
 <programme start="20251011135000 +0000" stop="20251011135500 +0000" channel="1442">
 <title>Meteo intermeco</title>
@@ -42426,6 +42274,10 @@ Jutarnji program, TVCG</desc>
 </programme>
 <programme start="20251013133000 +0000" stop="20251013135000 +0000" channel="1442">
 <title>Muzika</title>
+</programme>
+<programme start="20251013135000 +0000" stop="20251013135500 +0000" channel="1442">
+<title>Meteo intermeco</title>
+<desc>Meteo</desc>
 </programme>
 <programme start="20251011122000 +0000" stop="20251011143000 +0000" channel="1461">
 <title>UŽIVO: Snooker: Xi’an Grand Prix, Xi’an, Kina, Četvrtfinale</title>
@@ -42960,11 +42812,6 @@ Tausende Brände verwüsten jeden Sommer auf Sizilien ganze Landstriche. Allein 
 <title>Zeiten des Aufruhrs</title>
 <desc>Spielfilm USA 2008 (Revolutionary Road)
 Amerika, Mitte der 50er Jahre. Frank und April Wheeler leben mit ihren beiden Kindern in einem gediegenen Vorort in Connecticut. Für ihre Nachbarn sind die beiden das perfekte Traumpaar. Aber der Schein trügt: Frank ist in seinem Bürojob ebenso unglücklich wie die freigeistige April in ihrer Rolle als biedere Hausfrau. Erst als April ihren Mann dazu überreden kann, sich einen Jugendtraum zu erfüllen und gemeinsam nach Paris zu ziehen, scheint sich das Blatt zu wenden. Dann aber verlässt Frank der Mut. Die Ehe gerät in eine tiefe Krise. Das bewegende Drama zeigt Kate Winslet und Leonardo DiCaprio in schauspielerischer Bestform.</desc>
-</programme>
-<programme start="20251011115000 +0000" stop="20251011134500 +0000" channel="1519">
-<title>Angel Heart</title>
-<desc>Mit Mickey Rourke, Robert De Niro, Lisa Bonet, u.a.
-Mit Mickey Rourke, Robert De Niro, Lisa Bonet, u.a. * Privatdetektiv Harry Angel soll für einen mysteriösen Auftraggeber einen nach dem 2. Weltkrieg spurlos verschwundenen Jazzsänger finden. Bei seinen Recherchen gerät er in den Dunstkreis okkultistischen Treibens, und alle, die er befragt, werden kurz darauf bestialisch ermordet.</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011161500 +0000" channel="1519">
 <title>Nightmare Alley</title>
@@ -44766,6 +44613,10 @@ Beverly smisli plan da spasi Mikeov brak u raspadu, ali obije joj se o glavu; Ba
 <title>Daleki grad</title>
 <desc>Ajla se vraća iz Kanade u Mardin jer je njen muž izrazio želju da tamo bude sahranjen. Zajedno sa svojim detetom, ona se ponovo sreće sa njegovom moćnom porodicom. Iako Ajla želi da se vrati kući, porodica Albora ne planira da joj to dopusti. Iako nevoljno, ona će uskoro biti upletena u mračne tajne njihove prošlosti.</desc>
 </programme>
+<programme start="20251013134500 +0000" stop="20251013142600 +0000" channel="1209">
+<title>Boje dana</title>
+<desc>Informativni program Televizije Vijesti donosi vam servisne informacije, sve aktuelne vijesti, novosti iz društveno-političkog i kulturnog života, kao i raznovrsne životne teme.</desc>
+</programme>
 <programme start="20251011125724 +0000" stop="20251011143459 +0000" channel="1671">
 <title>Undisputed 2</title>
 <desc>Undisputed 2</desc>
@@ -44865,6 +44716,10 @@ Beverly smisli plan da spasi Mikeov brak u raspadu, ali obije joj se o glavu; Ba
 <programme start="20251013113727 +0000" stop="20251013134234 +0000" channel="1671">
 <title>The Wandering Earth (2019)</title>
 <desc>The Wandering Earth (2019)</desc>
+</programme>
+<programme start="20251013134234 +0000" stop="20251013153845 +0000" channel="1671">
+<title>Battle Los Angeles</title>
+<desc>Battle Los Angeles</desc>
 </programme>
 <programme start="20251011125751 +0000" stop="20251011143019 +0000" channel="1672">
 <title>Family Blood 2018</title>
@@ -45263,11 +45118,6 @@ Type: Serija; Genre: Tv-serijali; Cast: Ljubomir Bandović, Anja Pavićević, Ka
 <title>Tri muškarca i tetka</title>
 <desc>Zamršeni odnosi u porodici u kojoj glavnu reč vodi bogata tetka Milka, donose razne komične i napete situacije kroz koje nas ova zabavna serija vodi.
 Type: Serija; Genre: Tv-serijali; Cast: Marko Janketić, Jelisaveta &apos;Seka&apos; Sablić, Milan Vasić; Season no.: ; Episode no.: 46; Director: ; Release Year: 2021; Zamršeni odnosi u porodici u kojoj glavnu reč vodi bogata tetka Milka, donose razne komične i napete situacije kroz koje nas ova zabavna serija vodi.</desc>
-</programme>
-<programme start="20251011131500 +0000" stop="20251011134000 +0000" channel="1704">
-<title>Kruds - Porodično Stablo</title>
-<desc>Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.
-Type: Serija; Genre: Tv-serijali; Cast: Darin Brooks, Ally Dixon, Amy Landecker, A.J. LoCascio, Artemis Pebdani, Amy Rosoff, Abby Trott, Kiff VandenHeuvel, Matthew Wate; Season no.: 2; Episode no.: 17; Director: Kevin Peaty, Scooter Tidwell, Steve Trenbirth; Release Year: 2023; Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011140500 +0000" channel="1704">
 <title>Kruds - Porodično Stablo</title>
@@ -46048,6 +45898,11 @@ Type: Serija; Genre: Tv-serijali; Cast: ; Season no.: 1; Episode no.: 24; Direct
 <title>Kruds - Porodično Stablo</title>
 <desc>Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.
 Type: Serija; Genre: Tv-serijali; Cast: Ally Dixon, Kiff VandenHeuvel, Matthew Waterson, Amy Rosoff, Amy Landecker, A.J. LoCascio; Season no.: 2; Episode no.: 19; Director: ; Release Year: 2023; Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.</desc>
+</programme>
+<programme start="20251013134000 +0000" stop="20251013140500 +0000" channel="1704">
+<title>Kruds - Porodično Stablo</title>
+<desc>Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.
+Type: Serija; Genre: Tv-serijali; Cast: Ally Dixon, Kiff VandenHeuvel, Matthew Waterson, Amy Rosoff, Amy Landecker, A.J. LoCascio; Season no.: 2; Episode no.: 20; Director: ; Release Year: 2023; Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011135500 +0000" channel="1784">
 <title>LIVE: Post SBK</title>
@@ -48022,6 +47877,11 @@ Le ricerche degli acquirenti proseguono a Tyler, dove Ricky cerca di rimuovere i
 <desc>S1E6 ║ 2025 ║ 12+ ║ DE
 Nikolaus Bode impara la lezione dopo aver acquistato un Rolex contraffatto e vuole assicurarsi che sua figlia Angelina sia preparata a difendersi dalle truffe nei banchi dei pegni. A Offenburg, Daniel Lieser e Axel Zoor esaminano una collana.</desc>
 </programme>
+<programme start="20251013135000 +0000" stop="20251013144500 +0000" channel="1799">
+<title>Affari a tutti i costi</title>
+<desc>S2E5 ║ Affari su ruota ║ 2012 ║ US
+Un pericoloso contenitore mette a rischio gli acquirenti. Un cattivo presagio getta un&apos;ombra oscura sull&apos;intera giornata. Brandon e Lori si scontrano con Scott e Chrissy in una battaglia a base di offerte.</desc>
+</programme>
 <programme start="20251011131000 +0000" stop="20251011140000 +0000" channel="1809">
 <title>Senke nad Balkanom 1, ep. 1. ®</title>
 <desc>Senke nad Balkanom
@@ -48570,11 +48430,6 @@ Na Dan zahvalnosti Chandler pokušava steći naklonost Monicinih roditelja, ali 
 <programme start="20251013125500 +0000" stop="20251013140000 +0000" channel="1061">
 <title>Gospodin Savršeni 4, ep. 16.</title>
 <desc>Gospodin Savršeni IV.</desc>
-</programme>
-<programme start="20251011132500 +0000" stop="20251011134000 +0000" channel="1066">
-<title>Smilje i bosilje</title>
-<desc>Farmaceut Maja Kovač Vujović uplovila je u vode alternativne medicine i gledaocima u svakoj epizodi predstavlja lekovite biljke koje rastu u našoj zemlji i daje savete kako da sami pripreme.
-Type: Program; Genre: Zdravlje i medicina; Cast: ; Director: ; Release Year: 2020; Farmaceut Maja Kovač Vujović uplovila je u vode alternativne medicine i gledaocima u svakoj epizodi predstavlja lekovite biljke koje rastu u našoj zemlji i daje savete kako da sami pripreme tinkture, ulja, šampone, meleme... koji blagotvorno deluju na zdravlje celog organizma, kože, kose, noktiju, koje biljke možete koristi za neinvazivni tretman nekih bolesti koje nas muče od vajkada. Biljne kapi ili čajevi imaju izuzetno dejstvo ako se redovno i pravilno konzumiraju.</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011135500 +0000" channel="1066">
 <title>Zdravstveni azbučnik</title>
@@ -49441,6 +49296,11 @@ Der Klimawandel gefährdet auch den Kaffeeanbau. Forscher aus der Kaffeenation F
 <programme start="20251013131500 +0000" stop="20251013134500 +0000" channel="1597">
 <title>alpha-retro: Uwe und Karin. Sturmfreie Bude (1975)</title>
 <desc>Die Lehrlinge Uwe und Karin sind ein Paar. Als Uwes Eltern an einem Wochenende nicht zu Hause sind, will Uwe die Gelegenheit nutzen und mit Karin schlafen, denn wenn man miteinander befreundet ist, dann schläft man auch zusammen - denkt Uwe. Karin sieht die Sache anders - es kommt zum Konflikt. Die Sendung macht den Mädchen Mut selbst zu entscheiden, ob und wann sie mit einem Jungen schlafen wollen. Da Karin Uwe ja gerne hat, findet sie auch eine Gelegenheit - eine, die sie bestimmt.</desc>
+</programme>
+<programme start="20251013134500 +0000" stop="20251013143000 +0000" channel="1597">
+<title>alpha-retro: Verliebt, verlobt, verheiratet. (1979)</title>
+<desc>Die Liebe unserer Kinder
+Im Pressetext von 1979 hieß es: Der Rückzug der Jugend aus den Gruppen-Protestbewegungen der fünfziger und sechziger Jahre in die unpolitisch-private Atmosphäre einer Zweierbeziehung ist unverkennbar. Man sieht sie überall, die Paare: auf dem Schulhof, beim Sport, in der Freizeit, an der Arbeitsstelle. Sie lernen sich oft mit 14 oder 15 Jahren kennen und bleiben dann viele Jahre zusammen. Fünf von ihnen geben Auskunft darüber, wie sie denken und fühlen.</desc>
 </programme>
 <programme start="20251011133000 +0000" stop="20251011140000 +0000" channel="1028">
 <title>Die Nordreportage: Unterwegs mit dem Profi-Angler</title>
@@ -52443,11 +52303,6 @@ Mit Robert De Niro, Jeremy Irons, Ray McAnally, u.a. * Südamerika im 18. Jahrhu
 <desc>GB/F/USA 2000
 Mit George Clooney, John Turturro, Tim Blake Nelson, u.a. * Zur Zeit der Großen Depression erleben die geflohenen Häftlinge Everett, Pete und Delmar in Mississippi das Abenteuer ihres Lebens. Die schrägen Jungs versuchen eine Millionenbeute an sich zu bringen, die Everett einst ergaunerte. Diese liegt in einem Versteck, dass in vier Tagen von einem Stausee überflutet wird. Zwischen ihnen und dem Geld stehen der Ku-Klux-Klan sowie übereifrige Polizisten.</desc>
 </programme>
-<programme start="20251011125000 +0000" stop="20251011134000 +0000" channel="1601">
-<title>Motorway Cops - Verkehrssünder im Visier</title>
-<desc>Folge 8
-3. Staffel, Folge 8: Anrufer melden der Polizei einen Lkw, der auf der M6 ins Schleudern geraten ist. Jamie Barlow und Amy Hollis holen den Wagen ein - und entdecken den Grund für die gefährliche Fahrweise..GB 2022. 45 Min. Von John Nichols, mit Nicky Campbell, Chris Swash, Amy Hollis.</desc>
-</programme>
 <programme start="20251011134000 +0000" stop="20251011143000 +0000" channel="1601">
 <title>Motorway Cops - Verkehrssünder im Visier</title>
 <desc>Folge 9
@@ -53777,6 +53632,11 @@ Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Kurierfahrer 
 <desc>Auf Wiedersehen, Arthur (24) * Sitcom
 USA 1999 * Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Kurierfahrer Doug Heffernan ist ein einfacher und zufriedener Durchschnittsamerikaner. Seine Frau Carrie, eine ambitionierte Rechtsanwaltsgehilfin, drängt ihren Mann ständig, mehr Ambitionen an den Tag zu legen. So richtig turbulent wird das Leben der beiden aber erst, als Dougs Schwiegervater Arthur, der versehentlich sein Haus niedergebrannt hat, bei ihnen einzieht.</desc>
 </programme>
+<programme start="20251013134500 +0000" stop="20251013141000 +0000" channel="1598">
+<title>King of Queens</title>
+<desc>Auf Eis gelegt (25) * Sitcom, USA 1999
+Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Kurierfahrer Doug Heffernan ist ein einfacher und zufriedener Durchschnittsamerikaner. Seine Frau Carrie, eine ambitionierte Rechtsanwaltsgehilfin, drängt ihren Mann ständig, mehr Ambitionen an den Tag zu legen. So richtig turbulent wird das Leben der beiden aber erst, als Dougs Schwiegervater Arthur, der versehentlich sein Haus niedergebrannt hat, bei ihnen einzieht.</desc>
+</programme>
 <programme start="20251011133033 +0000" stop="20251011142500 +0000" channel="1568">
 <title>Navy CIS</title>
 <desc>Mit List und Tücke.Crime-Serie, USA 2019.Altersfreigabe: ab 12
@@ -54041,5 +53901,10 @@ Der Chirurg Dr. Eric Mercer wird von einem Killer im Weihnachtsmannkostüm ersch
 <title>Castle</title>
 <desc>Privatdetektiv Richard Castle.Crime-Serie, USA 2014.Altersfreigabe: ab 12
 Castle hat einen Weg gefunden, das Ermittlungsverbot bei der Polizei zu umgehen: Er hat sich kurzerhand eine Detektiv-Lizenz besorgt! So ist es ihm nach einigen ermittlungstechnischen Rangeleien möglich, Beckett bei ihrem neuesten Fall zu unterstützen. Die Mitarbeiterin einer Privatschule wurde erschossen, und der Hauptverdächtige ist ein Staatsanwalt. Doch Castle gelingt es mit einem ungewöhnlichen Trick, den Mann zu entlasten..Regie: Milan Cheylov.Drehbuch: Rob Hanning..Darsteller:.Nathan Fillion (Richard Castle).Stana Katic (Kate Beckett).Molly C. Quinn (Alexis Castle).Seamus Dever (Kevin Ryan).Susan Sullivan (Martha Rodgers).Jon Huertas (Javier Esposito).Tamala Jones (Lanie Parish).Penny Johnson (Captain Victoria Gates).Alimi Ballard (Frank Jackson)</desc>
+</programme>
+<programme start="20251013134600 +0000" stop="20251013135812 +0000" channel="1568">
+<title>Kabel Eins :newstime</title>
+<desc>Kabel Eins :newstime.Information, D 2025
+Nachrichten live aus München: Die Kabel Eins :newstime informiert die Zuschauer:innen über die wichtigsten Themen des Tages aus Politik, Wirtschaft, Sport und Gesellschaft. Angela van Brakel und Norbert Anwander moderieren die Nachrichtensendung im Wechsel.</desc>
 </programme>
 </tv>
