@@ -5170,11 +5170,6 @@ Ovaj triler prati Lucasa, osamljenog ubojicu koji je unajmljen da ubije mladu ž
 <title>Bling Ring</title>
 <desc>The Bling Ring</desc>
 </programme>
-<programme start="20251011131500 +0000" stop="20251011142000 +0000" channel="1062">
-<title>Knjižar</title>
-<desc>Istraga Harkupove smrti se nastavlja i Buk otkriva nešto iznenađujuće o skeletima spronađenim tokom iskopavanja. Biće mu potrebna sva njegova domišljatost da reši ove slučajeve.
-Type: Serija; Genre: Tv-serijali; Cast: Mark Gatiss, Polly Walker, Connor Finch, Elliot Levey, Blake Harrison, Buket Komur, Rosie Cavaliero, Ella Bruccoleri, Tim McInne; Season no.: 1; Episode no.: 2; Director: Carolina Giammetta; Release Year: 2025; Istraga Harkupove smrti se nastavlja i Buk otkriva nešto iznenađujuće o skeletima spronađenim tokom iskopavanja. Biće mu potrebna sva njegova domišljatost da reši ove slučajeve.</desc>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011161000 +0000" channel="1062">
 <title>Megre</title>
 <desc>Megreeva odlučnost da pronađe ubicu čoveka koji ga je pozvao svega nekoliko sati pre nego što je ubijen vodi ga do bande koja ubija porodice u Pikardiju.
@@ -5384,6 +5379,11 @@ Type: Serija; Genre: Tv-serijali; Cast: Kate Phillips, Stuart Martin, Suncica Mi
 <title>Velika i mala stvorenja</title>
 <desc>Džejms konačno ima uspeha sa projektom Ministarstva poljoprivrede. Tristan poziva na sastanak Florens Pendi, ćerku Zigfridovog rivala.
 Type: Serija; Genre: Tv-serijali; Cast: Nicholas Ralph, Sophie Mensah, Adrian Rawlins, Samuel West, Derek, Anna Madeley, Rachel Shenton, Callum Woodhouse, Lamin Touray,; Season no.: 3; Episode no.: 4; Director: Andy Hay; Release Year: 2022; Džejms konačno ima uspeha sa projektom Ministarstva poljoprivrede. Tristan poziva na sastanak Florens Pendi, ćerku Zigfridovog rivala.</desc>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013151500 +0000" channel="1062">
+<title>Ubistvo u malom gradu</title>
+<desc>Zoi Strečan se suočava sa svojim otuđenim bratom Bendžaminom koji tvrdi da je u finansijskim problemima. Kada jbiva pronađeno mrtvo telo koje odgovara Bendžaminovom opisu, Alberg traži ubicu.
+Type: Serija; Genre: Tv-serijali; Cast: Rossif Sutherland, Kristin Kreuk, Mya Lowe, Aaron Douglas, Fritzy-Klevans Destine, Savonna Spracklin, Stana Katic, Fiona Vroom,; Season no.: 1; Episode no.: 3; Director: Lesli Houp; Release Year: 2024; Zoi Strečan se suočava sa svojim otuđenim bratom Bendžaminom koji tvrdi da je u finansijskim problemima. Kada jbiva pronađeno mrtvo telo koje odgovara Bendžaminovom opisu, Alberg traži ubicu.</desc>
 </programme>
 <programme start="20251011134000 +0000" stop="20251011153000 +0000" channel="981">
 <title>Zašto baš on?</title>
@@ -6869,10 +6869,8 @@ Keti će nas u...</desc>
 <title>HLEB I LALE</title>
 <desc>Hleb i lale</desc>
 </programme>
-<programme start="20251011135500 +0000" stop="20251011142000 +0000" channel="1644">
-<title>King of Queens</title>
-<desc>Ernste Absichten
-Doug kann einfach nicht fassen, dass seine geliebte Tante Sheila sich ausgerechnet in seinen Schwiegervater verliebt..USA 1998</desc>
+<programme start="20251013142500 +0000" stop="20251013145500 +0000" channel="1063">
+<title>Slatki atelje</title>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011152000 +0000" channel="1644">
 <title>Relic Hunter - Die Schatzjägerin</title>
@@ -7382,9 +7380,6 @@ Major Kira im Gewissenskonflikt: Sie soll die Evakuierung des bajoranischen Mond
 <title>UFC.on.ABC.3.Ortega.vs.Rodriguez.Prelims</title>
 <desc>UFC.on.ABC.3.Ortega.vs.Rodriguez.Prelims</desc>
 </programme>
-<programme start="20251011135000 +0000" stop="20251011142000 +0000" channel="1570">
-<title>Kultura sjećanja</title>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011145000 +0000" channel="1570">
 <title>Grad koji volim</title>
 <desc>Ova emisija predstavlja leksikon najznačajnijih ličnosti našeg vremena, beležeći priču o njima i njihovim djelima. Oni dolaze iz različitih sfera društva, a ono što ih povezuje jeste činjenica da oni kreiraju javni život Crne Go</desc>
@@ -7694,6 +7689,14 @@ Major Kira im Gewissenskonflikt: Sie soll die Evakuierung des bajoranischen Mond
 <programme start="20251013135000 +0000" stop="20251013141800 +0000" channel="1570">
 <title>Mreža.me</title>
 <desc>Govorimo o ljudima, događajima, mjestima, problemima, o svemu što vas zanima. Vaše priče, interesantni gosti.</desc>
+</programme>
+<programme start="20251013141800 +0000" stop="20251013142000 +0000" channel="1570">
+<title>Oči Podgorice</title>
+<desc>Bavimo se stanjem infrastrukture, očuvanjem prirode. Prijedlozi i rješenja na terenu - za bolju Podgoricu.</desc>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013150000 +0000" channel="1570">
+<title>Petica, pregled golova evropskih liga</title>
+<desc>Budite u toku sa događajima u fudbalskim ligama Evrope - donosimo vam rezultate, golove, najzanimljivije trenutke kao i najavu predstojećeg kola.</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011143500 +0000" channel="1375">
 <title>VTWonen: Weer verliefd op je huis</title>
@@ -10656,10 +10659,10 @@ Die Ermittler der Polizei vermuten, dass die Krankenschwester Genene Jones in ih
 <desc>An der Schwelle des Todes
 Nach einem Raubüberfall wird an einer Landstraße eine bewusstlose schwarze Frau junge gefunden. Eine Spur am Tatort führt Gil in ein Ghetto, in dem eine Gang herrscht. Um den Täter zu finden, wendet Gil einen seiner Spezialtricks an.</desc>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011141500 +0000" channel="1520">
-<title>Die Rosenheim-Cops</title>
-<desc>Mozarts kleiner Bruder
-14. Staffel, Folge 8: Der Eventmanager Hubert Wallner wird mit dem Musikfest zum 300. Geburtstag von Johann-Baptist Knauff engagiert, einem wenig bekannten Komponisten aus Rosenheim. Höhepunkt des Festivals soll der Auftritt des Pop-Musikers Fabrizio Frey (Andreas Gabalier) aus Graz werden. Mitten in den Vorbereitungen wird Dietmar Winscheck, Mitarbeiter des Rosenheimer Stadtarchivs, tot aufgefunden. Ein unglücklicher Zeitpunkt für Mordermittlungen, denn alle auf dem Revier sind mit den Vorbereitungen des Knauff-Festivals beschäftigt..D 2014. 44 Min. Von Walter Bannert, mit Joseph Hannesschläger, Igor Jeftic, Karin Thaler.</desc>
+<programme start="20251013142003 +0000" stop="20251013150559 +0000" channel="1522">
+<title>CSI: Miami</title>
+<desc>Spurenleger (Teil 2)
+Calleigh ist von den zwei Gaunern McAdams und Garver entführt worden. Die beiden hatten versehentlich den Pokerspieler Robert Milland erschossen. Calleigh soll nun für die beiden den Schauplatz des Mordes säubern und die Beweise vernichten.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011150500 +0000" channel="1520">
 <title>Die Rosenheim-Cops</title>
@@ -11094,10 +11097,6 @@ In einem Auktionshaus liegt die Leiche von Laura Finke. Erst scheint ein Mitarbe
 <desc>Freund in Not
 8. Staffel, Folge 20: Um seinen aktuellen Fall lösen zu können muss Danny seinen Erzfeind Victor Lugo im Gefängnis um Unterstützung bitten. Erin gerät mit Anthony aneinander, weil sie ein Date mit ihrem Ex-Mann plant. 41 Min..USA 2018. Von Ralph Hemecker, mit Tom Selleck, Donnie Wahlberg, Will Estes..Ab 12 Jahren</desc>
 </programme>
-<programme start="20251011131738 +0000" stop="20251011141711 +0000" channel="1510">
-<title>ŠEŠIR PROFESORA KOSTE VUJIĆA (1971)</title>
-<desc>ŠEŠIR PROFESORA KOSTE VUJIĆA (1971)</desc>
-</programme>
 <programme start="20251011141711 +0000" stop="20251011153013 +0000" channel="1510">
 <title>Balkanska braca</title>
 <desc>Balkanska braca</desc>
@@ -11205,11 +11204,6 @@ In einem Auktionshaus liegt die Leiche von Laura Finke. Erst scheint ein Mitarbe
 <programme start="20251013140549 +0000" stop="20251013154336 +0000" channel="1510">
 <title>Nicija Zemlja</title>
 <desc>Nicija Zemlja</desc>
-</programme>
-<programme start="20251011132500 +0000" stop="20251011142100 +0000" channel="1495">
-<title>Nepobedivo srce, ep. 5. ®</title>
-<desc>Nepobedivo srce
-Siromašni i nezaposleni pravnik Miroslav Balšić izdržava se pjevajući po kafanama i bezuspješno pokušava da se zaposli u struci. I kad se čini da nema nikakve nade da će dobiti posao, dobija pismo iz jednog grada u provinciji u kojem ga direktor banke, po preporuci, poziva da bude učitelj njegovom sinu koji ima problema u školi. Ako to uspješno obavi, direktor ga obećava zaposliti u svojoj banci kao pravnika</desc>
 </programme>
 <programme start="20251011142100 +0000" stop="20251011160000 +0000" channel="1495">
 <title>TV teatar - Palilulski roman ®</title>
@@ -11442,10 +11436,9 @@ Serija &quot;U klinču&quot;, nastala u zajedničkoj produkciji Radio-televizije
 <title>Sumnjiva lica, 11. i 12. spojene 2S ®</title>
 <desc>Sumnjiva lica</desc>
 </programme>
-<programme start="20251011132300 +0000" stop="20251011141600 +0000" channel="1493">
-<title>Na večeri kod 10C-4.emisija ®</title>
-<desc>Na večeri kod...
-Od 22. februara, svakog ponedeljka u 22 časa, na Prvom programu RTS-a gledamo drugu sezonu kulinarskog šou programa &quot;Na večeri kod...&quot; u kojem nam poznate ličnosti otvaraju vrata svojih domova i pokazuju kakvi su kuvari i domaćini.</desc>
+<programme start="20251013142400 +0000" stop="20251013151200 +0000" channel="1495">
+<title>Sumnjiva lica, 13. i 14. spojene 2S ®</title>
+<desc>Sumnjiva lica</desc>
 </programme>
 <programme start="20251011141600 +0000" stop="20251011143800 +0000" channel="1493">
 <title>TV Slagalica 174C- 1.emisija ®</title>
@@ -11968,12 +11961,6 @@ Vincent Downs lasvegaški je policajac koji, zahvaljujući korumpiranom kolegi, 
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="1231">
 <title>Bez grižnje savjesti</title>
 <desc>Without Remorse</desc>
-</programme>
-<programme start="20251011140500 +0000" stop="20251011141500 +0000" channel="1336">
-<title>Lo straordinario mondo di Gumball</title>
-<desc>S4E11 ║ La missione ║ 2015 ║ 6+ ║ GB, IE, US
-Nicole affida a Richard un compito della massima importanza: andare a comprare la maionese per la serata degli hamburger. Subito dopo, inizia una vera e propria epopea degna dei più grandi eroi.
-Mic Graves.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011143500 +0000" channel="1336">
 <title>Lo straordinario mondo di Gumball</title>
@@ -13112,6 +13099,12 @@ Katsuhito Akiyama, Suto Terada.</desc>
 <title>Orizzonti Pokémon</title>
 <desc>S2E26 ║ Incontri al Lago Cristallìo ║ 2025 ║ 12+ ║ JP
 Mentre sono sulle tracce della professoressa Rea, studiosa di Terapagos, Liko, Roy, Dot e Friede giungono finalmente al Lago Cristallìo. Ma non c&apos;è da rilassarsi, perché un Milotic, solitamente pacifico, li attacca e si teracristallizza.</desc>
+</programme>
+<programme start="20251013141500 +0000" stop="20251013144500 +0000" channel="1336">
+<title>Doraemon</title>
+<desc>2005 ║ JP
+Doraemon, un gatto cosmico, intelligente e amichevole con poteri speciali, proviene dal futuro e ha una tasca magica che realizza i sogni dei bambini. Vive avventure giornaliere con il suo amico Nobita.
+Soichiro Zen, Shinnosuke Yakuwa.</desc>
 </programme>
 <programme start="20251011122000 +0000" stop="20251011143000 +0000" channel="1335">
 <title>Rugby: Serie A Elite maschile</title>
@@ -15464,6 +15457,22 @@ Sean Gunn
 Matt Czuchry
 Edward Herrmann.</desc>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013151600 +0000" channel="1330">
+<title>Una mamma per amica</title>
+<desc>S6E4 ║ La trappola ║ 2005 ║ 0+ ║ US
+Sookie tenta di riavvicinare Lorelai e Rory, e sperando in una riappacificazione, chiede loro di essere madrine dei suoi figli, ma alla cerimonia si scatena l&apos;ennesimo litigio.
+Lauren Graham
+Alexis Bledel
+Melissa McCarthy
+Keiko Agena
+Yanic Truesdale
+Kelly Bishop
+Scott Patterson
+Liza Weil
+Sean Gunn
+Matt Czuchry
+Edward Herrmann.</desc>
+</programme>
 <programme start="20251011140600 +0000" stop="20251011143300 +0000" channel="1329">
 <title>Dragon Ball Super</title>
 <desc>S1E129 ║ Oltre ogni limite! L&apos;ultra istinto completo! ║ 2018 ║ 12+ ║ JP
@@ -16832,6 +16841,12 @@ Oktay Gürsoy
 Gökçe Eyüboglu
 Yasar Üzer
 Resit Berker Enhos.</desc>
+</programme>
+<programme start="20251013142500 +0000" stop="20251013145500 +0000" channel="1326">
+<title>Amici di Maria De Filippi: Daytime</title>
+<desc>S25E11 ║ 2025 ║ IT
+Appuntamento quotidiano con i ragazzi della scuola di arti performative più famosa d&apos;Italia. Scopriamo quali sono le canzoni e le coreografie studiate dai concorrenti e le difficoltà che devono superare per arrivare in finale.
+Andrea Vicario.</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011144700 +0000" channel="1325">
 <title>Hudson e Rex</title>
@@ -19110,11 +19125,6 @@ Type: Film; Genre: Bioskopski film; Cast: Brus Vilis, Sarah Jessica Parker, Denn
 <title>Decisiv</title>
 <desc>Urmărește cele mai importante subiecte ale zilei, dezbătute pe larg, în cadrul emisiunii.</desc>
 </programme>
-<programme start="20251011134500 +0000" stop="20251011141500 +0000" channel="1131">
-<title>Willkommen in Gravity Falls</title>
-<desc>Der Minigolf-Wettbewerb Zeichentrick-Serie, USA 2014
-Auf dem Gravity Falls Royal Putt Hutt Minigolfplatz fordert Mabel das reiche Mädchen Pacifia zu einem Wettstreit heraus. Während sie sich darauf vorbereiten, entdecken Mabel und Dipper, dass auf dem Minigolfplatz merkwürdige Dinge vor sich gehen. In den Löchern leben kleine Lilliputtiner, die die Bälle und somit den Ausgang aller Spiele kontrollieren. Das eröffnet Mabel die Möglichkeit, ihre Erzrivalin im Minigolf-Wettstreit zu schlagen. Der Lilliputtiner-Gruppe, die ihr dabei hilft den Sieg zu erringen, bekommt von ihr einen besonderen Aufkleber.</desc>
-</programme>
 <programme start="20251011141500 +0000" stop="20251011144000 +0000" channel="1131">
 <title>Willkommen in Gravity Falls</title>
 <desc>Seltsamageddon 1: Wettlauf mit der Zeit Zeichentrick-Serie, USA 2015
@@ -19549,6 +19559,11 @@ Folge 84,</desc>
 <desc>Die geheime Horde Animations-Serie, F 2023
 Folge 17,</desc>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013144000 +0000" channel="1131">
+<title>Phineas und Ferb</title>
+<desc>Die neue Sprache/ Jagd auf die verlorenen Kartoffelpuffer Zeichentrick-Serie, USA 2011
+Folge 81, (a) Phineas und Ferb erfinden eine neue Sprache, die schnell in ganz Danville beliebt wird. Dr. Doofenschmirtz plant, Norm dazu zu benutzen, alle Bürger nach seiner Pfeife tanzen zu lassen, wird aber frustiert, als Norm anfängt, in der neuen Sprache der Kinder zu sprechen. (b) Phineas und Ferb erschaffen zufällig hunderte Kartoffel-Menschen-Hybriden. Dr. Doofenschmirtz beschwört eine uralte Armee, die ihm helfen soll, die Tri-State-Area zu übernehmen. Baljeet und Buford unterhalten während des Latke Festivals eine Gruppe älterer Bürger.</desc>
+</programme>
 <programme start="20251011134000 +0000" stop="20251011143500 +0000" channel="1130">
 <title>Geheime Welten - Reise in die Tiefe</title>
 <desc>Steinoasen * Dokumentation, GB 2021
@@ -19854,10 +19869,10 @@ Dokumentationsreihe * Geräusche, die auf dem Mars aufgezeichnet wurden, könnte
 <desc>Wahrsager und Propheten, USA 2023
 Dokumentationsreihe * Sind manche Vorhersagen tatsächlich echte Einblicke in die Zukunft?</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1127">
-<title>Fringe - Grenzfälle des FBI</title>
-<desc>Dr. Robert Bischoff (14) * Mysteryserie
-USA/CDN 2010 * Mit Lance Reddick, Joshua Jackson, Anna Torv, u.a. * Nachdem auf einer Hochzeitsfeier eine Reihe von Personen grausam erstickt ist, untersucht das Fringe-Team den Tatort und die möglichen Hintergründe. Als die Ermittler herausfinden, dass es sich bei der Vergiftung der Gäste nur um einen Testlauf für einen größeren Anschlag gehandelt hat, versuchen Olivia und ihre Kollegen alles, um eine Katastrophe zu verhindern.</desc>
+<programme start="20251013142500 +0000" stop="20251013151000 +0000" channel="1130">
+<title>The UnXplained mit William Shatner</title>
+<desc>Spurlos verschwunden, USA 2023
+Dokumentationsreihe * Es gibt Fälle von Verschwinden, die sich nicht erklären lassen.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011150500 +0000" channel="1127">
 <title>Fringe - Grenzfälle des FBI</title>
@@ -20169,10 +20184,10 @@ Familiensaga * Mit Michael Landon, Karen Grassle, Melissa Gilbert, u.a. * Caroli
 <desc>Klassentreffen (13) * Krimiserie
 USA 2011 * Mit Angie Harmon, Sasha Alexander, Lorraine Bracco, u.a. * Die temperamentvolle Jane Rizzoli ist Detective bei der Bostoner Mordkommission. Mit ihren beiden Kollegen, dem erfahrenen Vince Korsak und dem Neuling Barry Frost, versteht sie sich gut. Am besten arbeitet sie jedoch mit ihrer Freundin, der sachlichen und analytischen Gerichtsmedizinerin Maura Isles, zusammen. Gemeinsam klären sie jedes Verbrechen auf und überführen raffinierte Mörder.</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1126">
-<title>FBI: Special Crime Unit</title>
-<desc>Dilemma (7) * Krimiserie, USA 2021
-Mit Missy Peregrym, Zeeko Zaki, John Boyd, u.a. * Tiffany Wallace beginnt ihren Dienst als neue Ermittlerin im FBI-Team und sieht sich sofort einer Situation gegenüber, die ihre Loyalität zu ihrer kirchlichen Gemeinde auf die Probe stellt. Während sie versucht, ihre persönlichen Überzeugungen mit ihrem neuen Job in Einklang zu bringen, wird das Team mit einem brisanten Fall konfrontiert: Ein Killer, der willkürlich Menschen ermordet, sorgt für Angst und Schrecken in der Stadt.</desc>
+<programme start="20251013142500 +0000" stop="20251013151000 +0000" channel="1127">
+<title>Rizzoli &amp; Isles</title>
+<desc>Tanz in den Tod (14) * Krimiserie
+USA 2011 * Mit Angie Harmon, Sasha Alexander, Jordan Bridges, u.a. * Die temperamentvolle Jane Rizzoli ist Detective bei der Bostoner Mordkommission. Mit ihren beiden Kollegen, dem erfahrenen Vince Korsak und dem Neuling Barry Frost, versteht sie sich gut. Am besten arbeitet sie jedoch mit ihrer Freundin, der sachlichen und analytischen Gerichtsmedizinerin Maura Isles, zusammen. Gemeinsam klären sie jedes Verbrechen auf und überführen raffinierte Mörder.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011150500 +0000" channel="1126">
 <title>FBI: Special Crime Unit</title>
@@ -20489,10 +20504,10 @@ USA 2005 * Mit Dennis Farina, Jesse L. Martin, S. Epatha Merkerson, u.a. * Der F
 <desc>Auswärts genascht (18) * Krimiserie
 USA 2005 * Mit Dennis Farina, Jesse L. Martin, S. Epatha Merkerson, u.a. * Zunächst steht die Aufklärungsarbeit von wechselnden Ermittlerteams der New Yorker Polizei im Mittelpunkt jeder Episode der realitätsnahen Serie. Dabei handelt es sich in erster Linie um Morde und andere Schwerverbrechen. Anschließend wird die Arbeit der Staatsanwaltschaft gezeigt, die den verhafteten Tätern vor Gericht die Schuld nachweisen muss, damit es zu einer Verurteilung kommen kann.</desc>
 </programme>
-<programme start="20251011124000 +0000" stop="20251011142000 +0000" channel="703">
-<title>200% Wolf</title>
-<desc>Animationsfilm
-Um von seinem Werwolfsrudel akzeptiert zu werden, beschwört Pudel Freddy einen Mondgeist. Damit bringt er die kosmische Ordnung durcheinander. Fortsetzung des Animations-Hits..AUS/B 2023. 92 Min. Von Alexs Stadermann , mit Patrick Baehr, Sebastian Schulz, K. Dieter Klebsch.</desc>
+<programme start="20251013142000 +0000" stop="20251013150500 +0000" channel="1126">
+<title>Criminal Intent - Verbrechen im Visier</title>
+<desc>Die Stripperin (20) * Krimiserie
+USA 2007 * Mit Chris Noth, Julianne Nicholson, Eric Bogosian, u.a. * Der drogensüchtige Justin Holland bricht tot auf der Tanzfläche einer Discothek zusammen. Justin war der Sohn von Lorelai Mailer, einer ehemaligen Stripperin und Witwe eines Milliardärs. Kurze Zeit später stirbt auch Lorelai völlig überraschend - sie war ebenfalls drogenabhängig. Die Detectives Logan und Wheeler beginnen zu ermitteln und stehen vor einem so komplizierten wie komplexen Fall.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011162500 +0000" channel="703">
 <title>Criminal Squad</title>
@@ -20902,11 +20917,6 @@ Nostalgische Liebeskomödie von und mit Genre-Star Meg Ryan: Willa strandet an e
 <programme start="20251013133859 +0000" stop="20251013152628 +0000" channel="742">
 <title>Jennifers Body - Jungs nach ihrem Geschmack</title>
 <desc>Jennifers Body - Jungs nach ihrem Geschmack</desc>
-</programme>
-<programme start="20251011135500 +0000" stop="20251011141500 +0000" channel="902">
-<title>Schere, Stein, Papier</title>
-<desc>Augenbrauen (5) * Animationsserie
-USA 2024 * Mit Carlos Alazraqui, Ron Funches, Thomas Lennon, u.a. * Schere, Stein, Papier sind drei beste Freunde, die zusammen eine Wohnung teilen und um alles konkurrieren. Woche für Woche begegnen sie eigentlich alltäglichen Problemen, die immer wieder außer Kontrolle geraten.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011144000 +0000" channel="902">
 <title>Schere, Stein, Papier</title>
@@ -21508,10 +21518,10 @@ USA 2020 * Mit Asher Bishop, Catherine Taber, Liliana Mumy, u.a. * Der elfjähri
 <desc>Fliegen (1) * Animationsserie, USA 2024
 Mit Carlos Alazraqui, Susanne Blakeslee, Grey Griffin, u.a. * Hazel, Cosmo und Wanda geraten immer wieder in magische Schwierigkeiten, während die mehr über Wünsche und Magie lernen. Als der reiche Dev Dimmadome versucht, die Elfenwelt zu übernehmen, können nur noch Hazel und ihre Freunde die Magie retten!</desc>
 </programme>
-<programme start="20251011141000 +0000" stop="20251011142000 +0000" channel="876">
-<title>SpongeBob Schwammkopf</title>
-<desc>Perlasitting
-Mr. Krabs beauftragt Thaddäus, auf Perla aufzupassen, aber die versucht, sich auf eine coole Party zu schleichen!</desc>
+<programme start="20251013142000 +0000" stop="20251013144500 +0000" channel="902">
+<title>Die Thundermans: Undercover</title>
+<desc>Cover-Jobs (3) * Jugendserie, USA 2025
+Mit Kira Kosarin, Jack Griffo, Maya Le Clark, u.a. * Phoebe und Max kämpfen zusammen mit Chloe aus ihrem neuen, mit modernster Technik ausgestatteten Geheimversteck heraus gegen die fiesesten Schurken. Chloe, Jinx und Booch entwerfen ein Schulmaskottchen, doch die Fehde zwischen Max und Phoebe über ihre Jobs ruiniert das Projekt. Chloe kritisiert sie, und die Zwillinge erkennen, dass ihr Streit Chloe beeinflusst, jetzt, wo sie Wächter sind.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011144000 +0000" channel="876">
 <title>SpongeBob Schwammkopf</title>
@@ -22135,10 +22145,10 @@ Scooby und Shaggy wollen an dem Fast-Food-Wettessen der Doc-Tally-Restaurantkett
 <desc>Salziger Schwamm
 SpongeBob arbeitet als Grillmeister im härtesten Lokal der Stadt und meistert die Herausforderungen des anspruchsvollen Arbeitsumfelds.</desc>
 </programme>
-<programme start="20251011132000 +0000" stop="20251011141500 +0000" channel="1396">
-<title>Der Albtraum nebenan</title>
-<desc>Musikterror aus dem Nachbarhaus, GB 2014
-Doku-Soap * Manche Streitereien sind kurz, aber heftig, andere schwelen ewig. So auch bei Familie Tsang, die seit sechs Jahren mit ihren Nachbarn im Clinch liegt: Mutter Susan Tsang erkrankte schwer, bekam mit viel Glück eine lebensrettende Spenderniere und brauchte nach der Transplantation viel Ruhe. Doch die Erholung währt nicht lange. Schon frühmorgens werkelt ihr Nachbar lautstark im Garten und hat das Radio auf volle Lautstärke gedreht. Der Nachbarssohn zeigt noch weniger Rücksicht und feiert nebenan Partys, bis die Wände wackeln. Außerdem: Ein böser Streit um Mülltonnen, Handgreiflichkeiten und Mobbing.</desc>
+<programme start="20251013141500 +0000" stop="20251013143500 +0000" channel="876">
+<title>SpongeBob Schwammkopf</title>
+<desc>Angler der Angst
+In dieser Szene des Films besuchen die Freunde SpongeBob und Patrick ein Kino, um gemeinsam den neuesten Horrorstreifen mit dem Titel &quot;Der Angler der Angst&quot; zu erleben, der vermutlich für Spannung und Gruselmomente sorgt.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011152000 +0000" channel="1396">
 <title>Unschuldig verurteilt?</title>
@@ -24427,16 +24437,6 @@ In nur wenigen Minuten können sich die Zuschauer in dieser Sendung auf den neue
 <title>Soko Kitzbühel</title>
 <desc>S17E11 ║ Wenn die Maske fällt ║ Krimiserie
 Auch bei unseren Nachbarn in Österreich gibt es Verbrecher, die es zu jagen gilt. Das Ermittler-Team begibt sich in und um den Tiroler Ort Kitzbühel auf die Suche nach ihnen.</desc>
-</programme>
-<programme start="20251011141200 +0000" stop="20251011141700 +0000" channel="1315">
-<title>Vješti Rafty</title>
-<desc>Crafty Rafty
-Vješti Rafty koristi svakodnevne predmete poput čepova, gumba i komadića drva za stvaranje veličanstvene i šarene scene. Gledajte i budite inspirirani reciklirati takve objekte kako biste stvorili nešto novo i uzbudljivo. Uradi sam!</desc>
-</programme>
-<programme start="20251011141700 +0000" stop="20251011142300 +0000" channel="1315">
-<title>Billy Bam Bam</title>
-<desc>Billy BamBam
-Billy i Bam Bam zabavljaju se u igraonici ili parku. Tamo uživaju igrajući se zajedno. Ponekad se i prepiru, ali se brzo pomire.</desc>
 </programme>
 <programme start="20251011142300 +0000" stop="20251011142900 +0000" channel="1315">
 <title>Knjiga o džungli</title>
@@ -27198,10 +27198,13 @@ Vrijeme je da usporite i opustite se.</desc>
 <title>Billy Bam Bam</title>
 <desc>Billy BamBam</desc>
 </programme>
-<programme start="20251011135500 +0000" stop="20251011141500 +0000" channel="832">
-<title>Gabby 4, ep. 8.</title>
-<desc>GABBY’S DOLLHOUSE
-Gabby i njezin pomoćnik Pandy Paws, koji obožava zagrljaje i uvijek je spreman za grickalice i nestašluke, vode nas u pustolovine prepune šarene magije i slatkih mačića! Animiranu interaktivnu predškolsku seriju, čije je prvo prikazivanje bilo 2021., stvorili su Traci Paige Johnson, Jennifer Twomey i Christopher J. Nowak. Snimljeno je više od 50 epizoda, a Gabbynih malih TV obožavatelja sve je više te njezino društvo mačića postaje sve popularnije!</desc>
+<programme start="20251013141900 +0000" stop="20251013142500 +0000" channel="1315">
+<title>Knjiga o džungli</title>
+<desc>Jungle Book</desc>
+</programme>
+<programme start="20251013142500 +0000" stop="20251013142600 +0000" channel="1315">
+<title>Pjesme i rime</title>
+<desc>Songs &amp; Rhymes</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011143500 +0000" channel="832">
 <title>Yu-Gi-Oh! GO RUSH!! 1, ep. 13.</title>
@@ -28069,6 +28072,10 @@ Sportske igre mladih promiču način života čiji su temelji razumijevanje, pri
 <title>Gabby 4, ep. 10.</title>
 <desc>Gabby’s Dollhouse</desc>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013143500 +0000" channel="832">
+<title>Yu-Gi-Oh! GO RUSH!! 1, ep. 15.</title>
+<desc>Yugio gorasshu!!</desc>
+</programme>
 <programme start="20251011133527 +0000" stop="20251011150115 +0000" channel="747">
 <title>Aliens in the Attic</title>
 <desc>Aliens in the Attic</desc>
@@ -28470,6 +28477,10 @@ Night mix with videos of Balkan artists.</desc>
 <programme start="20251013122000 +0000" stop="20251013141500 +0000" channel="852">
 <title>MUSIC ARENA</title>
 <desc>Music Arena</desc>
+</programme>
+<programme start="20251013141500 +0000" stop="20251013150000 +0000" channel="852">
+<title>HIT MIX</title>
+<desc>Hit Mix</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011151300 +0000" channel="687">
 <title>Začarana princeza</title>
@@ -33829,6 +33840,18 @@ Uživajte u popularnim hitovima.</desc>
 <title>Luis - Moj zivot je moje blago</title>
 <desc>Ljubiša Stojanović Luis</desc>
 </programme>
+<programme start="20251013141600 +0000" stop="20251013142000 +0000" channel="696">
+<title>Lepa Brena - Golube</title>
+<desc>Lepa Brena</desc>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013142400 +0000" channel="696">
+<title>Legende - Ne veruj</title>
+<desc>Legende</desc>
+</programme>
+<programme start="20251013142400 +0000" stop="20251013143000 +0000" channel="696">
+<title>Haris Džinović - Ostaricu necu znati</title>
+<desc>Haris Džinović</desc>
+</programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="692">
 <title>90 dana do vjenčanja: Prije 90 dana 7, ep. 17.</title>
 <desc>90 Day Fiancé: Before the 90 Days
@@ -34011,11 +34034,6 @@ Whitney ne smije otkriti spol Ashleynog djeteta. Heather se otvara na skupnom sp
 <programme start="20251013140000 +0000" stop="20251013150000 +0000" channel="692">
 <title>Sestre koje teže 450 kg 4, ep. 12.</title>
 <desc>1000-lb Sisters</desc>
-</programme>
-<programme start="20251011133000 +0000" stop="20251011142000 +0000" channel="844">
-<title>Divlje životinje 1, ep. 2.</title>
-<desc>Animals Gone Wild
-Kad proradi instinkt borbe ili bijega, životinje će učiniti sve kako bi preživjele. Od junačkih podviga do bijega za dlaku, očekujte neočekivano kad se velika i mala stvorenja susretnu s najčudnijim problemima Divljim životinjama.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011150500 +0000" channel="844">
 <title>Divlje životinje 1, ep. 4.</title>
@@ -34284,6 +34302,10 @@ Kad proradi instinkt borbe ili bijega, životinje će učiniti sve kako bi prež
 <programme start="20251013133000 +0000" stop="20251013142000 +0000" channel="844">
 <title>Napad morskog psa 360 1, ep. 3.</title>
 <desc>When Sharks Attack 360</desc>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013150500 +0000" channel="844">
+<title>Nevjerojatni dr. Pol 13, ep. 4.</title>
+<desc>The Incredible Dr. Pol</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011150000 +0000" channel="901">
 <title>Isušivanje oceana 1, ep. 10.</title>
@@ -34772,11 +34794,6 @@ Josh Gates diljem svijeta istražuje neriješene legendarne priče, no prije neg
 <title>Goli i prestrašeni 5, ep. 13.</title>
 <desc>Naked and Afraid</desc>
 </programme>
-<programme start="20251011122500 +0000" stop="20251011141500 +0000" channel="957">
-<title>Uzimam, možda</title>
-<desc>Maybe I Do
-Michelle i Allen su u svojoj vezi došli do točke kada trebaju poduzeti slijedeći korak prema braku. Misleći da je dobra ideja pozvati roditelje da se konačno upoznaju, priprema se večera i igre počinju. Na opće iznenađenje, roditelji se već dobro poznaju – previše dobro – što dovodi do različitih, otkrivajućih i urnebesno zabavnih razmišljanja o vrijednosti braka.</desc>
-</programme>
 <programme start="20251011141500 +0000" stop="20251011161500 +0000" channel="957">
 <title>Vruća linija</title>
 <desc>On the Line
@@ -34872,9 +34889,9 @@ Annie (Cate Blanchett) je udovica i majka tri sina koja posjeduje posebni dar; v
 <title>Plaćenici 3</title>
 <desc>The Expendables 3</desc>
 </programme>
-<programme start="20251011115200 +0000" stop="20251011141300 +0000" channel="1171">
-<title>Aquaman</title>
-<desc>Film otkriva priču o podrijetlu polučovjeka, poluatlantiđanina Arthura Curryja i vodi ga na putovanje života – ono koje ga neće samo prisiliti da se suoči s time tko je on zapravo nego i da otkrije je li dostojan postati ono za što je rođen… Kralj.</desc>
+<programme start="20251013142500 +0000" stop="20251013162000 +0000" channel="957">
+<title>Mala Italija</title>
+<desc>Little Italy</desc>
 </programme>
 <programme start="20251011141300 +0000" stop="20251011161200 +0000" channel="1171">
 <title>Warcraft: Početak</title>
@@ -35258,9 +35275,6 @@ Michaelovo i Jamiejevo rivalstvo dovedeno je do krajnjih granica.</desc>
 <programme start="20251013130315 +0000" stop="20251013150012 +0000" channel="707">
 <title>Rich Flu</title>
 <desc>Rich Flu</desc>
-</programme>
-<programme start="20251011130500 +0000" stop="20251011142000 +0000" channel="898">
-<title>Hrvanje Zagreb - Petrinja</title>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011145500 +0000" channel="898">
 <title>Sportska priča - Mrdujska regata</title>
@@ -37835,9 +37849,6 @@ Movie name is yet to be announced by this channel.</desc>
 <programme start="20251013135000 +0000" stop="20251013143000 +0000" channel="699">
 <title>Sedmica</title>
 </programme>
-<programme start="20251011141000 +0000" stop="20251011142000 +0000" channel="790">
-<title>Meteo</title>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011151000 +0000" channel="790">
 <title>Kod ®</title>
 <desc>Kod</desc>
@@ -38060,6 +38071,12 @@ Movie name is yet to be announced by this channel.</desc>
 <programme start="20251013140500 +0000" stop="20251013141500 +0000" channel="790">
 <title>Sportski vesti</title>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013142000 +0000" channel="790">
+<title>Meteo</title>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013151500 +0000" channel="790">
+<title>Da si kažeme ®</title>
+</programme>
 <programme start="20251011140000 +0000" stop="20251011143000 +0000" channel="859">
 <title>Vesti</title>
 </programme>
@@ -38159,11 +38176,6 @@ Movie name is yet to be announced by this channel.</desc>
 </programme>
 <programme start="20251013140000 +0000" stop="20251013145000 +0000" channel="859">
 <title>Vesti</title>
-</programme>
-<programme start="20251011140100 +0000" stop="20251011141700 +0000" channel="911">
-<title>Whatzuuuuup</title>
-<desc>Kakva bi to Red TV televizija bila kada ne bi bilo vesti o poznatima? Navažnija gradska dešavanja, koncerti, premijere filmova i predstava, promocije novih knjiga, pesama i albuma, nova gotivna.
-Type: Program; Genre: Zabavni program; Cast: ; Director: ; Release Year: 2025; Kakva bi to Red TV televizija bila kada ne bi bilo vesti o poznatima? Navažnija gradska dešavanja, koncerti, premijere filmova i predstava, promocije novih knjiga, pesama i albuma, nova gotivna mesta u gradu i zanimljivi ljudi i razgovori sa regionalnim zvezdama - sve to možete saznati u emisiji &quot;Whatzuuuuup&quot; koju svakog radnog dana u 9:50 časova i 13:30 časova i vikendom od 9:40 časova i 15:55 časova vode Lana Antić, Helena Košutić i Ilija Božinović.</desc>
 </programme>
 <programme start="20251011141700 +0000" stop="20251011160400 +0000" channel="911">
 <title>Prenoćište</title>
@@ -39732,10 +39744,6 @@ An der amerikanisch-kanadischen Grenze, im Bundesstaat Washington, lebt der ehem
 <title>KUMOVI ®</title>
 <desc>Kumovi</desc>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011142000 +0000" channel="910">
-<title>Dnevnik 1</title>
-<desc>Dnevnik BN</desc>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011154500 +0000" channel="910">
 <title>Pred fajront</title>
 <desc>Smehotresna priča o našim naravima i karakterima, ispričanim u ambijentu i atmosferi kafane “Evropa”, koja bi se mogla smestiti bilo gde i bilo kuda.
@@ -39914,9 +39922,8 @@ BN Radio je popularna radio emisija na BN muzičkom kanalu koja donosi najnovije
 <title>Dnevnik 1</title>
 <desc>Dnevnik BN</desc>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011142000 +0000" channel="734">
-<title>Dnevnik 1</title>
-<desc>Dnevnik BN</desc>
+<programme start="20251013142000 +0000" stop="20251013160000 +0000" channel="910">
+<title>Izazovi</title>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011152000 +0000" channel="734">
 <title>Crno na bijelo ®</title>
@@ -40097,6 +40104,10 @@ Ne propustite najistaknutije estradne umjetnike i muzičare.</desc>
 <programme start="20251013140000 +0000" stop="20251013142000 +0000" channel="734">
 <title>Dnevnik 1</title>
 <desc>Dnevnik BN</desc>
+</programme>
+<programme start="20251013142000 +0000" stop="20251013150000 +0000" channel="734">
+<title>Noćna priča</title>
+<desc>Bir Gece Masali</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011143000 +0000" channel="828">
 <title>Identiteti</title>
@@ -40823,11 +40834,6 @@ Muzički program.</desc>
 </programme>
 <programme start="20251013130000 +0000" stop="20251013143000 +0000" channel="668">
 <title>Srbija on line</title>
-</programme>
-<programme start="20251011140000 +0000" stop="20251011142100 +0000" channel="690">
-<title>UŽIVO: N1 Info</title>
-<desc>N1 Info
-Iz sata u sat budite uz N1. Informirat ćemo vas s lica mjesta, uvijek prvi, s aktualnim vijestima. Gledajte i pratite što se događa kod nas, u regiji i svijetu. Uživo uvijek uz N1.</desc>
 </programme>
 <programme start="20251011142100 +0000" stop="20251011150000 +0000" channel="690">
 <title>Travel or not</title>
@@ -42049,6 +42055,11 @@ Die junge Daycia Fox wird tot im Pool eines leerstehenden Hauses gefunden. Die O
 <desc>Man stirbt nur zweimal
 Nick und Greg untersuchen den Tod von Jimmy Turelli, der schwer verletzt in der Wüste verscharrt worden war. Kurz nachdem ihm dann die Flucht aus seinem Grab gelang, wurde er von einem Auto überfahren und dabei tödlich verletzt.</desc>
 </programme>
+<programme start="20251013142500 +0000" stop="20251013152000 +0000" channel="1800">
+<title>Lie to Me</title>
+<desc>Bauernopfer
+Während politischer Proteste in Washington stellt ein frustrierter Farmer seinen Traktor vor einem Regieurngsgebäude ab und verlangt, den Präsidenten zu sprechen. Das FBI vermutet, dass sich ein Sprengsatz im Anhänger des Traktors befindet.</desc>
+</programme>
 <programme start="20251011140000 +0000" stop="20251011150000 +0000" channel="1442">
 <title>Dobro jutro Crna Goro, repriza</title>
 <desc>Dobro jutro Crna Goro
@@ -42947,10 +42958,6 @@ Mit Michael Budd, Henry Cavill, Sigourney Weaver, u.a. * Darauf hat sich die gan
 <desc>Mit Clint Eastwood, Tommy Lee Jones, Donald Sutherland, u.a.
 Mit Clint Eastwood, Tommy Lee Jones, Donald Sutherland, u.a. * Als ein Satellit abzustürzen droht, werden vier Pioniere der Raumfahrttechnik im hohen Alter reaktiviert, sodass ihr Traum vom Flug ins All doch noch in Erfüllung gehen kann.</desc>
 </programme>
-<programme start="20251011135500 +0000" stop="20251011141500 +0000" channel="1525">
-<title>Si bilo ednaš</title>
-<desc>Си било еднаш</desc>
-</programme>
 <programme start="20251011141500 +0000" stop="20251011142500 +0000" channel="1525">
 <title>Bon ton</title>
 </programme>
@@ -43317,6 +43324,12 @@ Mit Clint Eastwood, Tommy Lee Jones, Donald Sutherland, u.a. * Als ein Satellit 
 <title>Si bilo ednaš</title>
 <desc>Си било еднаш</desc>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013142500 +0000" channel="1525">
+<title>Bon ton</title>
+</programme>
+<programme start="20251013142500 +0000" stop="20251013144500 +0000" channel="1525">
+<title>Lalaloopsy</title>
+</programme>
 <programme start="20251011135244 +0000" stop="20251011144812 +0000" channel="1642">
 <title>Mord ist ihr Hobby</title>
 <desc>Dreharbeiten in Rom.Krimi, USA 1995.Altersfreigabe: ab 12.(WH vom Mittwoch, 08.10.2025, 16:15 Uhr)
@@ -43606,6 +43619,11 @@ In der Schule stehen die großen Abschlussprüfungen bevor. Die Lehrerin Mrs. Ga
 <title>Mord ist ihr Hobby</title>
 <desc>Der Todes-Hit.Krimi, USA 1996.Altersfreigabe: ab 12
 Jessica Fletcher freundet sich mit einer Latino-Band rund um Desi Ortega an und bittet einen befreundeten Agenten, sich um die Gruppe zu kümmern. Während eines Konzerts der Band geht für ein paar Sekunden das Licht aus, und ein Zuschauer wird ermordet. Es handelt sich um Tomas Aguilar, der ein Verhältnis mit der Schwester eines Bandmitglieds hatte. Ist der Mörder unter den Musikern zu finden? Jessica stellt einmal mehr ihr detektivisches Geschick unter Beweis .....Regie: Anthony Pullen Shaw.Drehbuch: Philip John Taylor.Komponist: Steve Dorff.Kamera: Ron Vargas.Schnitt: Ellen Ring Jacobson..Darsteller:.Angela Lansbury (Jessica Fletcher).Tony Plana (Desi Ortega).David Labiosa (Tomas Aguilar).Jason Bernard (Wilson Sloane).Robert Clohessy (Max Daniels).Jsu Garcia (Alex Lebron).Rosana DeSoto (Iza Decalde).Ramon Franco (Sam Desoto).Jacqueline Obradors (Patricia Decalde)</desc>
+</programme>
+<programme start="20251013141604 +0000" stop="20251013150848 +0000" channel="1642">
+<title>Mord ist ihr Hobby</title>
+<desc>Der tödliche Stromschlag.Krimi, USA 1996.Altersfreigabe: ab 12
+Dr. Seth Hazlitt organisiert ein Benefizkonzert, um die bevorstehende Rodung eines Waldgebiets bei Cabot Cove zu verhindern. Sänger Tommy Vaughn entging auf seiner letzten Tournee nur knapp einem Attentat. Dennoch wollen es sich die Musiker nicht nehmen lassen, für den guten Zweck aufzutreten. Als Tommy auf der Bühne eine E-Gitarre anfasst, wird er durch einen Stromschlag getötet. Hobbyermittlerin Jessica Fletcher macht sich daran, den Mörder zu überführen .....Regie: Kevin Corcoran.Drehbuch: David Thoreau.Komponist: Jeff Sturges.Kamera: Ron Vargas.Schnitt: Thomas Petersen..Darsteller:.Angela Lansbury (Jessica Fletcher).William Windom (Dr. Seth Hazlitt).Keith Coulouris (Tommy Vaughn).Sam Anderson (Dan).John D&apos;Aquino (Wylie Trey).Megan Gallivan (Rachel Weldon).Amy Hathaway (Udella Vaughn).Ernie Lively (Hal Palmer).Ron Masak (Sheriff Mort Metzger)</desc>
 </programme>
 <programme start="20251011133300 +0000" stop="20251011144100 +0000" channel="1651">
 <title>EVO RUKE: Split Blues Festival 2021. - Norman Beaker Band</title>
@@ -44826,11 +44844,6 @@ Beverly smisli plan da spasi Mikeov brak u raspadu, ali obije joj se o glavu; Ba
 <programme start="20251013130046 +0000" stop="20251013144805 +0000" channel="1672">
 <title>Fighting</title>
 <desc>Fighting</desc>
-</programme>
-<programme start="20251011140000 +0000" stop="20251011141500 +0000" channel="1271">
-<title>Državni posao</title>
-<desc>Kultni serijal &quot;Državni posao&quot; vodi nas u kancelariju jedne nepostojeće državne firme, gde će nas upoznati sa trojicom likova i njihovim kratkim, duhovitim komentarima i opaskama na sve moguće teme.
-Type: Serija; Genre: Tv-serijali; Cast: Dimitrije Banjac, Nikola Škorić, Dejan Ćirjaković; Season no.: ; Episode no.: ; Director: Stojce Stoleski; Release Year: ; Kultni serijal &quot;Državni posao&quot; vodi nas u kancelariju jedne nepostojeće državne firme, gde će nas upoznati sa trojicom karakterističnih likova i njihovim kratkim, duhovitim komentarima i opaskama na sve moguće teme koje nas okružuju. Njihovi satirični razgovori će nas zabaviti i nasmejati do suza, ali ćemo se sigurno nad njima i zamisliti. Ideja serijala je da dok akteri na duhovit način komentarišu aktuelna zbivanja, nas nasmeju i podstaknu na razmišljanje.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011150000 +0000" channel="1271">
 <title>Srcem kroz Srbiju</title>
@@ -46248,11 +46261,6 @@ Rebecca Chalon
 Eric Gustafsson
 Karen Kruper.</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1792">
-<title>Der Bergdoktor</title>
-<desc>S2E2 ║ Vergiftungserscheinungen ║ Arztserie
-Im Mittelpunkt der Reihe steht ein Arzt, der nach Jahren in sein Tiroler Heimatdorf zurückkehrt. Neben den gesundheitlichen Problemen der Bewohner muss er sich auch zwischenmenschlichen Beziehungen stellen.</desc>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011144500 +0000" channel="1792">
 <title>Erlebnis Österreich</title>
 <desc>Die Wein-Weltmeister. Von der Steiermark in die weite Welt ║ Landschaftsbild
@@ -46703,11 +46711,6 @@ Auf einem Campingplatz wird ein Doppelmord verübt. Der Diebstahl einer wertvoll
 <desc>Schönheit hat viele Gesichter ║ Talkshow
 Schönheit zeigt sich in unzähligen Facetten. Jeder Mensch besitzt eine eigene Ausstrahlung, die ihn einzigartig macht. Es sind die kleinen Besonderheiten, die Individualität, das Lächeln, der Blick oder die Art, wie jemand durchs Leben geht, die wahre Schönheit sichtbar machen. Denn jeder Mensch ist schön, auf seine ganz eigene Weise.</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1793">
-<title>Der Bergdoktor</title>
-<desc>S2E2 ║ Vergiftungserscheinungen ║ Arztserie
-Im Mittelpunkt der Reihe steht ein Arzt, der nach Jahren in sein Tiroler Heimatdorf zurückkehrt. Neben den gesundheitlichen Problemen der Bewohner muss er sich auch zwischenmenschlichen Beziehungen stellen.</desc>
-</programme>
 <programme start="20251011142000 +0000" stop="20251011144500 +0000" channel="1793">
 <title>Erlebnis Österreich</title>
 <desc>Die Wein-Weltmeister. Von der Steiermark in die weite Welt ║ Landschaftsbild
@@ -47157,11 +47160,6 @@ Auf einem Campingplatz wird ein Doppelmord verübt. Der Diebstahl einer wertvoll
 <title>Barbara Karlich - Talk um 4</title>
 <desc>Schönheit hat viele Gesichter ║ Talkshow
 Schönheit zeigt sich in unzähligen Facetten. Jeder Mensch besitzt eine eigene Ausstrahlung, die ihn einzigartig macht. Es sind die kleinen Besonderheiten, die Individualität, das Lächeln, der Blick oder die Art, wie jemand durchs Leben geht, die wahre Schönheit sichtbar machen. Denn jeder Mensch ist schön, auf seine ganz eigene Weise.</desc>
-</programme>
-<programme start="20251011133500 +0000" stop="20251011142000 +0000" channel="1794">
-<title>Der Bergdoktor</title>
-<desc>S2E2 ║ Vergiftungserscheinungen ║ Arztserie
-Im Mittelpunkt der Reihe steht ein Arzt, der nach Jahren in sein Tiroler Heimatdorf zurückkehrt. Neben den gesundheitlichen Problemen der Bewohner muss er sich auch zwischenmenschlichen Beziehungen stellen.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011144500 +0000" channel="1794">
 <title>Erlebnis Österreich</title>
@@ -49606,6 +49604,11 @@ Markerschütternde Schreie stören den Schlaf der Familie Schmitz. Klaus&apos; T
 <programme start="20251013140000 +0000" stop="20251013141500 +0000" channel="1028">
 <title>NDR Info</title>
 </programme>
+<programme start="20251013141500 +0000" stop="20251013150000 +0000" channel="1028">
+<title>Gefragt - Gejagt (671)</title>
+<desc>Alexander Bommes
+Moderator Alexander Bommes begrüßt heute die Kandidat:innen Anna Spengler, Dominik Sauter, Teresa Bauer und Sven Schaffer. Schlägt das Team die Jägerin oder den Jäger?</desc>
+</programme>
 <programme start="20251011140000 +0000" stop="20251011142500 +0000" channel="1607">
 <title>Futurama</title>
 <desc>Der Leela-Laune-Zapp * Zeichentrickserie
@@ -50195,6 +50198,11 @@ USA 2012 * Mit Adrien Beard, Elisa Gabrielli, Mona Marshall, u.a. * Wie tief das
 <title>South Park</title>
 <desc>Urlaub mit Kenny &amp; Butters (11)
 Zeichentrickserie, USA 2012 * Mit Mona Marshall, Trey Parker, April Stewart, u.a. * Als Butter erfährt, dass seine Eltern Hawaiianer sind, dreht er komplett durch. Darum schicken ihn seine Eltern, wie es eine Tradition verlangt, nach Hawaii, damit er dort durch eine Hapa Noa-Zeremonie seine Aggression verliert. Vor Ort wird er von den Ureinwohnern als einer der ihren aufgenommen. Doch als Butters versehentlich ein Kreuzfahrtschiff versenkt, hat das einen Krieg zur Folge.</desc>
+</programme>
+<programme start="20251013142500 +0000" stop="20251013145000 +0000" channel="1607">
+<title>American Dad!</title>
+<desc>Heimatschutz (6) * Zeichentrickserie
+USA 2005 * Mit Seth MacFarlane, Mike Barker, Wendy Schaal, u.a. * Weil sein Nachbar Tuttle nicht mehr den Rasen sprengt, spioniert Stan ihm nach. Dabei entdeckt Stan, dass in seiner Nähe US-Amerikaner arabischer Herkunft wohnen! Was die liberale Hayley dazu wohl sagt? Steve schlägt sich währenddessen mit ganz anderen Problemen herum. Unabsichtlich hat er beim Videospielen Rogers Gefühle verletzt. Nun überlegt er, wie er das wohl wiedergutmachen kann.</desc>
 </programme>
 <programme start="20251011133500 +0000" stop="20251011143000 +0000" channel="1638">
 <title>Outback Opal Hunters</title>
@@ -51580,10 +51588,6 @@ Type: Program; Genre: Info; Cast: ; Director: ; Release Year: 2022; Istražitelj
 <desc>Telo muzičara je pronađeno u maloj ulici, a u isto vreme radnik na gradilištu misteriozno nestaje. Policija neumorno pokušava da reši slučaj.
 Type: Program; Genre: Info; Cast: Jon Haider, Steven Hirschfield, Sharon Johnson, Leslie McAllister, Thomaitsa Petru, Dan Suchan, Maryellen Suchan; Director: ; Release Year: 2020; Telo muzičara je pronađeno u maloj ulici, a u isto vreme radnik na gradilištu misteriozno nestaje. Policija neumorno pokušava da reši slučaj.</desc>
 </programme>
-<programme start="20251011123000 +0000" stop="20251011141500 +0000" channel="1024">
-<title>Košarka - ABA liga: Partizan - Krka</title>
-<desc>ABA liga je osnovana od strane najboljih košarkaških klubova iz Bosne i Hercegovine, Crne Gore, Hrvatske, Srbije i Slovenije. Kao takva sastoji se od klubova sa prostora bivše SFRJ te su u njoj još učestvovali predstavnici Mađarske, Bugarske, Izraela i Češke. U nekoliko navrata je menjala i naziv u zavisnosti od sponzora, a danas joj je službeni naziv Adriatic Basketball Association League.</desc>
-</programme>
 <programme start="20251011141500 +0000" stop="20251011160000 +0000" channel="1024">
 <title>Košarka - ABA 2. liga: Podgorica - Borac Banja Luka</title>
 <desc>2. ABA liga je liga drugog stepena regionalne košarkaške ABA lige. U ligi učestvuje 12 ekipa koje nakon dvokružnog sistema utakmica traže put prema četiri najbolje ekipe i plasman na fajnal for. Svrha ABA 2. lige je omogućiti manjim košarkaškim sredinama takmičenje sa jačom regionalnom konkurencijom.</desc>
@@ -51959,11 +51963,6 @@ Talking Football ekskluzivni je pogled na španjolski nogomet i njegove zvijezde
 </programme>
 <programme start="20251013020000 +0000" stop="20251013040000 +0000" channel="1908">
 <title>ŠPANSKA LIGA: Ath. Bilbao - Mallorca, snimak 04.10., fudbal</title>
-</programme>
-<programme start="20251011132900 +0000" stop="20251011141300 +0000" channel="2012">
-<title>Planinski doktor</title>
-<desc>Nemačka serija donosi uzbudljive pustolovine doktora i gorskih spasilaca koji u prekrasnim, ali i opasnim planinskim ambijentima priskaču u pomoć ljudima koji su se zatekli u najrazličitijim.
-Type: Serija; Genre: Tv-serijali; Cast: Hans Zigl, Hajko Rupreht, Mark Keler; Season no.: ; Episode no.: ; Director: Aksel Bart; Release Year: 2021; Nemačka serija donosi uzbudljive pustolovine doktora i gorskih spasilaca koji u prekrasnim, ali i opasnim planinskim ambijentima priskaču u pomoć ljudima koji su se zatekli u najrazličitijim opasnim situacijama. Uzbudljive akcije spasavanja u seriji su kombinovane s dirljivim porodičnim pričama, a serija je snimana u veličanstvenoj, netaknutoj prirodi austrijskih Alpa.</desc>
 </programme>
 <programme start="20251011141300 +0000" stop="20251011155900 +0000" channel="2012">
 <title>Zlatna rukavica</title>
@@ -52769,10 +52768,10 @@ USA 2012 * Mit Seth MacFarlane, Wendy Schaal, Scott Grimes, u.a. * Francine möc
 <desc>Freunde fürs Leben * Zeichentrickserie
 USA 2012 * Mit Seth MacFarlane, Wendy Schaal, Scott Grimes, u.a. * Francine überfällt die Angst, dass sie und ihr Mann Stan immer weniger in ihrem Leben miteinander teilen. Vor allem Stan soll ihrer Ansicht nach daran schuld sein, da er sich so häufig mit seinen Kumpels trifft und mit ihnen im &quot;CIA Chill House&quot; eine Menge Zeit verbringt, anstatt sich seiner Frau zu widmen.</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011141500 +0000" channel="1600">
-<title>The Drew Barrymore Show</title>
-<desc>Valeri Bertinelli / Will Taylor / Danny Seo
-Valeri Bertinelli / Will Taylor / Danny Seo * Talk, USA 2025 * Valeri Bertinelli; Will Taylor; Danny Seo * Mit einer geballten Ladung Humor und positiver Energie präsentiert Drew Barrymore ein einstündiges Programm, welches Information und Unterhaltung geschickt kombiniert. Die thematische Bandbreite ist groß und reicht von der Human Interest Story bis hin zu den neuesten Lifestyle-Trends. Spannende Gäste begrüßt Drew in ihrer Show und lässt mit ihnen die überraschendsten und aufregendsten Anekdoten der letzten Zeit Revue passieren.</desc>
+<programme start="20251013141500 +0000" stop="20251013143500 +0000" channel="1596">
+<title>Bob&apos;s Burgers</title>
+<desc>Lobsterfest * Zeichentrickserie
+USA 2011 * Mit H. Jon Benjamin, Dan Mintz, Eugene Mirman, u.a. * Das jährliche Hummerfest löst bei Bob nicht mehr als nur Grauen aus. Er kann die Vorliebe der Stadtbewohner für Fisch und Meeresfrüchte absolut nicht nachvollziehen. Stattdessen sollten die Anwohner eher das von ihm erfundene &quot;Bobsterfest&quot; feiern. Auch seine Familie muss unter Bobs Abneigung leiden, da er ihnen einen Besuch strikt verbietet. Als am Tage der Veranstaltung ein Sturm aufzieht, sieht er seine große Chance auf sich zu kommen.</desc>
 </programme>
 <programme start="20251011141500 +0000" stop="20251011150000 +0000" channel="1600">
 <title>The Drew Barrymore Show</title>
@@ -53073,11 +53072,6 @@ Mit Roy Peter Link, Sanam Afrashteh, Mike Adler, u.a. * Dr. Moreau ist fest ents
 <title>Sturm der Liebe</title>
 <desc>Konstantin stellt Natascha ein..., D 2013
 Telenovela * Mit Lucy Scherer, Moritz Tittel, Melanie Wiegmann, u.a. * Marlene redet Konstantin ins Gewissen - ohne Erfolg: Er verlässt gemeinsam mit Sabrina das Bräustüberl. Er ist allerdings so betrunken, dass zwischen den beiden nichts passiert. Als Natascha über Umwege davon erfährt, macht sie Konstantin schwere Vorwürfe.</desc>
-</programme>
-<programme start="20251011135500 +0000" stop="20251011142000 +0000" channel="1598">
-<title>The Big Bang Theory</title>
-<desc>Die Mars-Bewerbung (17) * Sitcom
-USA 2014 * Mit Johnny Galecki, Jim Parsons, Kaley Cuoco, u.a. * Eigentlich wollten Amy und Sheldon den nächsten Schritt in ihrer Beziehung machen und sich gemeinsam eine Schildkröte zulegen. Dabei erfährt Amy, dass sich Sheldon ohne ihr Wissen für die Besiedlung des Mars angemeldet hat. Rajs Freundin Emily wird zu einem Notfall gerufen und lässt ihn allein in ihrer Wohnung. Er kann der Versuchung nicht widerstehen und wirft einen Blick in ihre Schubladen.</desc>
 </programme>
 <programme start="20251011142000 +0000" stop="20251011144000 +0000" channel="1598">
 <title>Young Sheldon</title>
