@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ivicazubovic-jpg/epg_combiner/gh-pages/epg_48h.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="463" tvg-name="1nfo Kanal" group-title="01. SRPSKI",1nfo Kanal (art)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://e2.ddstream.info:4463/live?channelId=463&deviceMac=00:1A:79:28:8a:42&smart=1
