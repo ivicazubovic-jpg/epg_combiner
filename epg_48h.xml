@@ -4344,6 +4344,9 @@ Donosimo vam najnovije vesti i informacije. Bavimo se svim temama koje su obele�
 <programme start="20251013131000 +0000" stop="20251013140500 +0000" channel="1807">
 <title>Ovo je Srbija</title>
 </programme>
+<programme start="20251013140500 +0000" stop="20251013150000 +0000" channel="1807">
+<title>Nemanjići - rađanje kraljevine</title>
+</programme>
 <programme start="20251011132000 +0000" stop="20251011142500 +0000" channel="1791">
 <title>Lucifer</title>
 <desc>S5E2 ║ Lucifer! Lucifer! Lucifer! ║ Fantasyserie
@@ -5075,11 +5078,6 @@ Najava programa</desc>
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="1777">
 <title>FRANCUSKA LIGA: LILLE - LYON, nogomet</title>
 </programme>
-<programme start="20251011121000 +0000" stop="20251011140500 +0000" channel="1701">
-<title>Slutnja</title>
-<desc>Premonition
-inda (S. Bullock) i Jim (J. McMahon) žive s dvije kćeri udoban obiteljski život u predgrađu. U četvrtak ujutro šerif dolazi Lindi na vrata i obavijesti je da joj je muž dan prije stradao u automobilskoj nesreći. Sljedećeg jutra Linda se probudi i Jim je kod kuće, živ i zdrav. Ali prekosutra kad se probudila, činilo se da su joj se dani i događaji zbrkali, jer Jima opet nema.</desc>
-</programme>
 <programme start="20251011140500 +0000" stop="20251011160000 +0000" channel="1701">
 <title>Odmetnici</title>
 <desc>Renegades
@@ -5622,6 +5620,11 @@ Type: Program; Genre: Vesti; Cast: ; Director: ; Release Year: 2025; &quot;Una v
 <desc>Zapuštena i rastrojena žena dolazi pred fabriku s dvoje male dece i preti da će da se zapali ako njenom mužu ne isplate zaostale plate i otpremninu.
 Zapuštena i rastrojena žena dolazi pred fabriku s dvoje male dece i preti da će da se zapali ako njenom mužu ne isplate zaostale plate i otpremninu.</desc>
 </programme>
+<programme start="20251013140500 +0000" stop="20251013150000 +0000" channel="981">
+<title>Jedne letnje noći</title>
+<desc>Lola i Krinka su dve sestre, iako veoma različite, obe su veoma lepe i zanimljive. One žive sa roditeljima koji čuvaju veliku tajnu koja se tiče Krinkinog porekla.
+Type: Serija; Genre: Tv-serijali; Cast: Vaja Dujović, Bojan Perić, Mina Lazarević, Milena Radulović, Zoran Cvijanović, Vladan Dujović, Monika Romić, Jelisaveta Karadzic; Season no.: 1; Episode no.: 1; Director: Ivan Stefanović; Release Year: 2015; Lola i Krinka su dve sestre, iako veoma različite, obe su veoma lepe i zanimljive. One žive sa roditeljima koji čuvaju veliku tajnu koja se tiče Krinkinog porekla. Sestre zajedno sa majkom kreću na putovanje, posle kog više ništa neće biti isto.</desc>
+</programme>
 <programme start="20251011135500 +0000" stop="20251011145100 +0000" channel="978">
 <title>Djatlovljev prolaz</title>
 <desc>Početkom 1959. godine, grupa planinara koje je predvodio Igor Djatlov poginula je na Uralu pod misterioznim okolnostima. Grupa službenika KGB-a pod vođstvom oficira Kostina poslata je u ovo negostoljubivo područje kako bi se otkrila istina o uzrocima ove tragedije.</desc>
@@ -5849,6 +5852,10 @@ Zapuštena i rastrojena žena dolazi pred fabriku s dvoje male dece i preti da �
 <programme start="20251013131800 +0000" stop="20251013141200 +0000" channel="978">
 <title>Predsednik: Igra korupcije - Fifa gejt</title>
 <desc>Žoao Avelanž je bio sportista, koji je nakon uspešne fudbalske karijere postao predsednik Fife. Ovo je priča o usponu ove organizacije i brojnim koruptivnim igrama koje se kriju iza proklamovanih ideja o sportskom fer-pleju.</desc>
+</programme>
+<programme start="20251013141200 +0000" stop="20251013143700 +0000" channel="978">
+<title>TV Čorba</title>
+<desc>Emisija obrađuje svakodnevne pojave iz drugog ugla, sa suptilnim primesama ironije. Ekipa inspiraciju pronalazi u emisijama, serijama, filmovima, rijalitijima, vestima, na društvenim mrežama i svemu onome što fascinira gledaoce, a vrlo često je potpuno besmisleno ili samo po sebi smešno. Dakle, sve što čini naš TV život, svakodnevicu sa daljinskim upravljačem u rukama, predstavljamo na uvrnut, malo iskrivljen način, a poruku gledaoci izvlače sami.</desc>
 </programme>
 <programme start="20251011130000 +0000" stop="20251011143500 +0000" channel="980">
 <title>Badnje veče</title>
@@ -6129,6 +6136,10 @@ Zapuštena i rastrojena žena dolazi pred fabriku s dvoje male dece i preti da �
 <programme start="20251013132400 +0000" stop="20251013140800 +0000" channel="980">
 <title>Beskrajna ljubav</title>
 <desc>Pre mnogo godina, Zeka je u zamenu za veliku količinu novca priznao da je izvršio ubistvo, iako je nevin. Ubrzo saznaje da je prevaren i da novac koji treba da pomogne njegovoj majci u lečenju nikada nije stigao do nje. Zeka vreme u zatvoru koristi kako bi se obrazovao i pripremio za sve izazove koji ga čekaju na slobodi. Kada konačno završi sa služenjem kazne, on izlazi na slobodu spreman da dokaže da je nevin, ne sluteći da će uskoro upoznati ljubav svog života.</desc>
+</programme>
+<programme start="20251013140800 +0000" stop="20251013143000 +0000" channel="980">
+<title>TV Čorba</title>
+<desc>Emisija obrađuje svakodnevne pojave iz drugog ugla, sa suptilnim primesama ironije. Ekipa inspiraciju pronalazi u emisijama, serijama, filmovima, rijalitijima, vestima, na društvenim mrežama i svemu onome što fascinira gledaoce, a vrlo često je potpuno besmisleno ili samo po sebi smešno. Dakle, sve što čini naš TV život, svakodnevicu sa daljinskim upravljačem u rukama, predstavljamo na uvrnut, malo iskrivljen način, a poruku gledaoci izvlače sami.</desc>
 </programme>
 <programme start="20251011113000 +0000" stop="20251011160000 +0000" channel="1763">
 <title>UŽIVO: acciona Spanish Open presented by Madrid: Day 3</title>
@@ -7046,6 +7057,14 @@ Die Weihnachtsgeschenke, die sich Doug, Carrie und Arthur gegenseitig machen, tr
 <title>King of Queens</title>
 <desc>Liebe ist ...
 Carrie versucht sich erfolgreich als Kupplerin bei Spence. Als Doug versucht, die Beziehung seines Freundes voranzutreiben, schießt er gewaltig über das Ziel hinaus..USA 1998</desc>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013141000 +0000" channel="1644">
+<title>TELESHOPPING</title>
+</programme>
+<programme start="20251013141000 +0000" stop="20251013151000 +0000" channel="1644">
+<title>Star Trek - Deep Space Nine</title>
+<desc>Mulliboks Mond
+Major Kira im Gewissenskonflikt: Sie soll die Evakuierung des bajoranischen Mondes Jerrado organisieren. Doch der Farmer Mullibok weigert sich zu gehen. Kira zieht daraufhin zu dem alten Mann, um ihn zur Aufgabe seines Grundstücks zu überreden. Stattdessen wächst ihre Sympathie für den Farmer und seine Ansichten.USA 1993</desc>
 </programme>
 <programme start="20251011134933 +0000" stop="20251011143106 +0000" channel="1655">
 <title>Gangs of Galicia E02</title>
@@ -9703,12 +9722,6 @@ Matthew Whelan.</desc>
 <desc>Lust, Leid und Laster
 4. Staffel, Folge 8: Tony hat eine Affäre mit Valentina, der heißen Gespielin seines Mafia-Kollegen Ralph. Tonys Frau Carmela muss ständig an Furio denken, der in Neapel auf der Beerdigung seines Onkels weilt. 54 Min..USA 2001. Von Daniel Attias, mit James Gandolfini, Lorraine Bracco, Edie Falco,  Joe Pantoliano..Ab 16 Jahren</desc>
 </programme>
-<programme start="20251011134500 +0000" stop="20251011141000 +0000" channel="1612">
-<title>The Big Bang Theory</title>
-<desc>S1E10 ║ Loobenfelds Netz der Lügen ║ Sitcom
-Sheldon und Leonard werden Zeuge von Pennys erbärmlichen Gesangskünsten.
-Den Physikern Sheldon und Leonard ist die &quot;normale&quot; Welt vollkommen fremd.</desc>
-</programme>
 <programme start="20251011141000 +0000" stop="20251011143500 +0000" channel="1612">
 <title>The Big Bang Theory</title>
 <desc>S1E11 ║ Alles fließt ║ Sitcom
@@ -10004,6 +10017,12 @@ Den Physikern Sheldon und Leonard ist die &quot;normale&quot; Welt vollkommen fr
 <title>The Big Bang Theory  (Wh.)</title>
 <desc>S1E8 ║ Das Lalita-Problem ║ Sitcom
 Rajs Eltern eröffnen ihm, dass sie eine Ehe mit Lalita arrangiert haben.
+Den Physikern Sheldon und Leonard ist die &quot;normale&quot; Welt vollkommen fremd.</desc>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013143000 +0000" channel="1612">
+<title>The Big Bang Theory</title>
+<desc>S1E17 ║ Schrödingers Katze ║ Sitcom
+Penny fragt sich, wer der richtige Mann für sie wäre - ist es etwa Leonard?
 Den Physikern Sheldon und Leonard ist die &quot;normale&quot; Welt vollkommen fremd.</desc>
 </programme>
 <programme start="20251011123000 +0000" stop="20251011143000 +0000" channel="1565">
@@ -11183,6 +11202,10 @@ In einem Auktionshaus liegt die Leiche von Laura Finke. Erst scheint ein Mitarbe
 <title>Natasa</title>
 <desc>Natasa</desc>
 </programme>
+<programme start="20251013140549 +0000" stop="20251013154336 +0000" channel="1510">
+<title>Nicija Zemlja</title>
+<desc>Nicija Zemlja</desc>
+</programme>
 <programme start="20251011132500 +0000" stop="20251011142100 +0000" channel="1495">
 <title>Nepobedivo srce, ep. 5. ®</title>
 <desc>Nepobedivo srce
@@ -11945,12 +11968,6 @@ Vincent Downs lasvegaški je policajac koji, zahvaljujući korumpiranom kolegi, 
 <programme start="20251013130000 +0000" stop="20251013150000 +0000" channel="1231">
 <title>Bez grižnje savjesti</title>
 <desc>Without Remorse</desc>
-</programme>
-<programme start="20251011135000 +0000" stop="20251011140500 +0000" channel="1336">
-<title>Lo straordinario mondo di Gumball</title>
-<desc>S4E17 ║ L&apos;abbraccio ║ 2016 ║ 6+ ║ GB, IE, US
-Per non essere prevedibile come sostiene Darwin, Gumball abbraccia uno studente della scuola che non conosce. Da quell&apos;abbraccio, nasce una particolare amicizia basata sul malinteso.
-Mic Graves.</desc>
 </programme>
 <programme start="20251011140500 +0000" stop="20251011141500 +0000" channel="1336">
 <title>Lo straordinario mondo di Gumball</title>
@@ -14366,6 +14383,16 @@ Ted Levine
 Bitty Schram
 Jason Gray-Stanford.</desc>
 </programme>
+<programme start="20251013141300 +0000" stop="20251013151100 +0000" channel="1332">
+<title>Monk</title>
+<desc>S2E9 ║ Il sig. Monk e il 12mo uomo ║ 2003 ║ 16+ ║ US
+In una drammatica sequenza di bizzarri incidenti, muoiono undici dei dodici componenti di una giuria.
+Michael Zinberg
+Tony Shalhoub
+Ted Levine
+Bitty Schram
+Jason Gray-Stanford.</desc>
+</programme>
 <programme start="20251011121200 +0000" stop="20251011145100 +0000" channel="1331">
 <title>L&apos;esercito delle dodici scimmie</title>
 <desc>1987 ║ 16+ ║ US
@@ -14828,12 +14855,6 @@ Charles Cane
 Ray Teal
 Angie Dickinson
 Emmaline Henry.</desc>
-</programme>
-<programme start="20251011110000 +0000" stop="20251011140900 +0000" channel="1330">
-<title>Verissimo</title>
-<desc>S30E8 ║ 2022 ║ IT
-Rotocalco televisivo con servizi sui fatti della settimana, notizie rosa e approfondimenti ed ospiti in studio. Le singole rubriche della trasmissione arricchiscono la fascia pomeridiana di Canale 5.
-Marco Beltrami.</desc>
 </programme>
 <programme start="20251011140900 +0000" stop="20251011151800 +0000" channel="1330">
 <title>Grande fratello live</title>
@@ -15442,11 +15463,6 @@ Liza Weil
 Sean Gunn
 Matt Czuchry
 Edward Herrmann.</desc>
-</programme>
-<programme start="20251011133900 +0000" stop="20251011140600 +0000" channel="1329">
-<title>Dragon Ball Super</title>
-<desc>S1E128 ║ Nobiltà e orgoglio fino all&apos;ultimo! Il crollo di Vegeta ║ 2018 ║ 12+ ║ JP
-Nello scontro finale contro Jiren, C-17 si è sacrificato per consentire a Goku e Vegeta di recuperare le forze. Ma le energie di di entrambi non sembrano ancora al meglio. Resta ancora un&apos;ultima carta da giocare.</desc>
 </programme>
 <programme start="20251011140600 +0000" stop="20251011143300 +0000" channel="1329">
 <title>Dragon Ball Super</title>
@@ -16244,6 +16260,12 @@ Mark Christopher Lawrence
 Vik Sahay
 Scott Krinsky.</desc>
 </programme>
+<programme start="20251013141100 +0000" stop="20251013143500 +0000" channel="1329">
+<title>Detective Conan</title>
+<desc>S3E1 ║ Un altro caso da risolvere ║ 1998 ║ 6+ ║ JP
+Mentre Mitsuhiko e gli altri bambini giocano con la ricetrasmittente, intercettano la telefonata di un rapitore al padre di una bambina.
+Kenji Kodama, Yasuichiro Yamamoto, Masato Sato, KAMANAKA NOBUHARU.</desc>
+</programme>
 <programme start="20251011124500 +0000" stop="20251011144400 +0000" channel="1328">
 <title>Grande fratello live</title>
 <desc>2014 ║ IT
@@ -16791,6 +16813,25 @@ Sevda Erginci.</desc>
 <desc>S30E16 ║ 2023 ║ 12+ ║ IT
 Uomini e donne si incontrano e si corteggiano alla ricerca dell&apos;anima gemella. Il pubblico in studio è chiamato a partecipare alle vicende amorose dei concorrenti con commenti e consigli.
 Laura Basile.</desc>
+</programme>
+<programme start="20251013141000 +0000" stop="20251013142500 +0000" channel="1326">
+<title>La forza di una donna</title>
+<desc>2025 ║ TR
+Sarp insiste affinché Hatice ed Enver consegnino a Bahar i soldi da lui portati, ma Enver si rifiuta di farlo. Ceyda non ha il coraggio di raccontare a Yeliz la verità.
+Merve Girgin Aytekin, Nadim Güç
+Özge Özpirincci
+Caner Cindoruk
+Bennu Yildirimlar
+Seray Kaya
+Ayca Erturan
+Kubra Suzgun
+Feyyaz Duman
+Devrim Özder Akin
+Serif Erol
+Oktay Gürsoy
+Gökçe Eyüboglu
+Yasar Üzer
+Resit Berker Enhos.</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011144700 +0000" channel="1325">
 <title>Hudson e Rex</title>
@@ -17498,6 +17539,19 @@ Luca Rea
 Francesca Barolini
 Rita Pavone.</desc>
 </programme>
+<programme start="20251013140600 +0000" stop="20251013145300 +0000" channel="1325">
+<title>Scorpion</title>
+<desc>S4E13 ║ The Bunker Games ║ 2018 ║ 12+ ║ US
+La squadra deve lavorare con la nemesi di Toby e sua moglie, una ex fidanzata dell&apos;uomo, mentre i due sono intrappolati in un bunker. Walter fa un sogno in cui sposa Florence al posto di Paige.
+Milan Cheylov
+Elyes Gabel
+Robert Patrick
+Katharine McPhee
+Eddie Kaye Thomas
+Jadyn Wong
+Ari Stidham
+Riley B. Smith.</desc>
+</programme>
 <programme start="20251011130000 +0000" stop="20251011144500 +0000" channel="1121">
 <title>Tv Talk</title>
 <desc>2025 ║ IT
@@ -17913,10 +17967,6 @@ In diretta dallo studio della TGR Lazio, le tappe di questo importante appuntame
 <title>Articolo 1</title>
 <desc>2025
 Articolo 1 racconta le storie di tre vite spezzate da incidenti sul lavoro. Lucia, giovane madre rimasta vedova, ricorda il marito operaio stradale travolto da una frana in cantiere, dei sogni sgretolati e la fatica di crescere due bambini da sola.</desc>
-</programme>
-<programme start="20251011131400 +0000" stop="20251011140200 +0000" channel="1434">
-<title>Alien Highway 1, ep. 2.</title>
-<desc>A Missouri man who claims UFOs are stalking him contacts Chuck and the team for help. Their investigation uncovers a dark secret which may explain this reported activity.</desc>
 </programme>
 <programme start="20251011140200 +0000" stop="20251011145000 +0000" channel="1434">
 <title>NASA-ini neobjašnjeni dosjei 3, ep. 8.</title>
@@ -20729,10 +20779,6 @@ Nostalgische Liebeskomödie von und mit Genre-Star Meg Ryan: Willa strandet an e
 <desc>Episode 4
 1. Staffel, Folge 4: In Lalis Stube wird Diebesgut entdeckt. Daraufhin lässt ihn ein SS-Mann von einem kräftigen Häftling zusammenschlagen. Doch dieser weiß genau, wie man schwere Verletzungen vermeidet. 50 Min..GB 2024. Von Tali Shalom-Ezer, mit Harvey Keitel, Melanie Lynskey, Jonah Hauer-King..Ab 12 Jahren</desc>
 </programme>
-<programme start="20251011124245 +0000" stop="20251011140711 +0000" channel="742">
-<title>Haus der Stille</title>
-<desc>Haus der Stille</desc>
-</programme>
 <programme start="20251011140711 +0000" stop="20251011154502 +0000" channel="742">
 <title>La Exorcista</title>
 <desc>La Exorcista</desc>
@@ -21462,11 +21508,6 @@ USA 2020 * Mit Asher Bishop, Catherine Taber, Liliana Mumy, u.a. * Der elfjähri
 <desc>Fliegen (1) * Animationsserie, USA 2024
 Mit Carlos Alazraqui, Susanne Blakeslee, Grey Griffin, u.a. * Hazel, Cosmo und Wanda geraten immer wieder in magische Schwierigkeiten, während die mehr über Wünsche und Magie lernen. Als der reiche Dev Dimmadome versucht, die Elfenwelt zu übernehmen, können nur noch Hazel und ihre Freunde die Magie retten!</desc>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011141000 +0000" channel="876">
-<title>TOGGO Touchdown</title>
-<desc>Flokémon und das Looney Play
-Kyler Murray sorgt mit einem lustigen Kopfball-BOING für Lacher, während Maskottchen Toro Streiche spielt. Jonathan Taylor erhält die TOGGO Touchdown-Kette. Ein Emoji-Quiz lädt zum Mitraten ein.</desc>
-</programme>
 <programme start="20251011141000 +0000" stop="20251011142000 +0000" channel="876">
 <title>SpongeBob Schwammkopf</title>
 <desc>Perlasitting
@@ -22088,6 +22129,11 @@ Scooby und Shaggy wollen an dem Fast-Food-Wettessen der Doc-Tally-Restaurantkett
 <title>Woozle Goozle</title>
 <desc>Brücken &amp; Milch
 &quot;Brücken&quot;: Woozle und Simón moderieren heute lieber getrennt über das Thema &quot;Brücken&quot;.&quot;Milch&quot;: Heute geht es bei Woozle und Simón um ein ganz besonderes Getränk: Milch. Und deshalb wollen sie ihr Leibgericht kochen - Milchreis.</desc>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013141500 +0000" channel="876">
+<title>SpongeBob Schwammkopf</title>
+<desc>Salziger Schwamm
+SpongeBob arbeitet als Grillmeister im härtesten Lokal der Stadt und meistert die Herausforderungen des anspruchsvollen Arbeitsumfelds.</desc>
 </programme>
 <programme start="20251011132000 +0000" stop="20251011141500 +0000" channel="1396">
 <title>Der Albtraum nebenan</title>
@@ -23341,11 +23387,6 @@ Nachrichten live aus München: Die Kabel Eins :newstime informiert die Zuschauer
 <desc>Trucker Babes - 400 PS in Frauenhand.Doku-Reihe, D 2025
 Harte Typen mit riesigen Trucks, karierten Hemden und Vollbart: Der Beruf des Truckfahrers ist klischeebehaftet und gilt als Männerdomäne. Kabel Eins begleitet Frauen, die in einer vermeintlich rein männlichen Disziplin mit Charme, Charakter und Können überzeugen. &quot;Trucker Babes - 400 PS in Frauenhand&quot; gewährt einen tiefen Einblick in deren herausfordernden Alltag zwischen Zeitdruck, Fernfahrerleben und Familie.</desc>
 </programme>
-<programme start="20251011131500 +0000" stop="20251011141000 +0000" channel="1207">
-<title>Bares für Rares</title>
-<desc>Die Trödel-Show mit Horst Lichter
-Trödel-Show, Deutschland 2024Horst Lichter und sein Team präsentieren zwei Freischwingerstühle, einen Brillantring, eine Wiener Reiseuhr, eine Tabakdose, ein Gemälde von Miro Carcano und eine Lochplattenspieluhr.Wertvoll oder wertlos? Ob alter Krimskrams oder edle Rarität: In Horst Lichters Trödel-Show kann jeder seltene Fundstücke aus Keller oder Garage schätzen lassen.HD-Produktion</desc>
-</programme>
 <programme start="20251011141000 +0000" stop="20251011150000 +0000" channel="1207">
 <title>Die Rosenheim-Cops</title>
 <desc>Jagd auf Watzmann
@@ -23658,6 +23699,11 @@ Trödel-Show, Deutschland 2025Horst Lichter und sein Team präsentieren eine Pla
 <programme start="20251013140000 +0000" stop="20251013141000 +0000" channel="1207">
 <title>heute - in Europa</title>
 </programme>
+<programme start="20251013141000 +0000" stop="20251013150000 +0000" channel="1207">
+<title>Die Rosenheim-Cops</title>
+<desc>Die letzte Sendung
+Krimikomödie, Deutschland 2012Kurz nach der Ankündigung einer brisanten Radiosendung für den folgenden Tag wird der Moderator von &quot;Welle Rosenheim&quot;, Stefan Ross, vom Dach eines Hochhauses gestoßen.Noch am Tatort befragen die Kommissare Sven Hansen und Tobias Hartl die Chefin des Senders, Petra Wiesner, die kurz zuvor mit Ross einen heftigen Streit gehabt haben soll. Das will auch Tontechniker Manfred Demmel gesehen haben.Darsteller:Sven Hansen - Igor JefticMichael Mohr - Max MüllerMiriam Stockl - Marisa BurgerMarie Hofer - Karin ThalerTobias Hartl - Michael A. GrimmPolizeidirektor Gert Achtziger - Alexander DudaRegie: Walter BannertBuch/Autor: Rigobert MayerHD-Produktion</desc>
+</programme>
 <programme start="20251011133000 +0000" stop="20251011153500 +0000" channel="1226">
 <title>Sportschau</title>
 <desc>Handball-Bundesliga: SG Flensburg Handewitt - THW Kiel
@@ -23959,10 +24005,9 @@ Kilian kommt nach Bichlheim und verzaubert Fanny. In Anja wächst langsam der En
 <title>Tagesschau</title>
 <desc>Die Nachrichten der ARD</desc>
 </programme>
-<programme start="20251011131000 +0000" stop="20251011140500 +0000" channel="1397">
-<title>Willst Du mit mir gehen?</title>
-<desc>Dateshow
-Dateshow</desc>
+<programme start="20251013141000 +0000" stop="20251013150000 +0000" channel="1226">
+<title>Brisant</title>
+<desc>BRISANT ist das Infotainment-Magazin der ARD und erzählt die Geschichten des Lebens aus aller Welt: Nachrichten, Hintergründe, Reportagen über den Klimawandel, Service, Trends, Lifestyle und Neuigkeiten von Prominenten.</desc>
 </programme>
 <programme start="20251011140500 +0000" stop="20251011145000 +0000" channel="1397">
 <title>Was gibt es Neues?</title>
@@ -24373,20 +24418,15 @@ In der Vorabendserie mit norddeutschem Lokalkolorit begeben sich die Ermittler a
 <desc>E3 ║ Freier Fall ║ Krimiserie
 Inspector Richard Poole wird von London in die Karibik geschickt, um das Gewaltverbrechen an einem seiner Kollegen aufzuklären. Für jeden anderen ist die Karibik wohl ein Traumort zum Arbeiten - doch Poole hasst Sonne, Strand und Meer.</desc>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011140600 +0000" channel="1315">
-<title>Mikeov bicikl</title>
-<desc>Mike’s Bike
-Mikeova trgovina bicikala je mjesto na koje svi idu kada imaju problem koji treba riješiti. Bio velik ili malen, Mike je uvijek tu da pomogne svojim prijateljima svojim jedinstvenim, neobičnim i smiješnim izumima koji svakome izmame osmijeh na lice. Serija na novi način stavlja frazu - &quot;ako iz prve ne uspijete - pokušajte ponovno&quot; (i opet, i opet).</desc>
+<programme start="20251013140500 +0000" stop="20251013141000 +0000" channel="1397">
+<title>ZIB Flash</title>
+<desc>NACHRICHTEN
+In nur wenigen Minuten können sich die Zuschauer in dieser Sendung auf den neuesten Stand bringen lassen, was Bereiche wie Sport, Kultur, Gesellschaft oder Sport angeht.</desc>
 </programme>
-<programme start="20251011140600 +0000" stop="20251011141000 +0000" channel="1315">
-<title>Zalijepi s Mickom</title>
-<desc>Stick with Mick
-Upoznajte Micka - znatiželjnog dječaka koji upoznaje svijet prikupljanjem naljepnica. Pratite Micka koji stvara prekrasan album pun novih riječi i pojmova - raznih suprotnosti, maštovitih oblike i šarenih boja.</desc>
-</programme>
-<programme start="20251011141000 +0000" stop="20251011141200 +0000" channel="1315">
-<title>Pjesme i rime</title>
-<desc>Songs &amp; Rhymes
-Uživajte u BabyTV kolekciji pjesama i rima iz cijelog svijeta! Naučite kako pozdraviti na više od 10 različitih jezika uz pjesmu Hello, kao i pjevati uz klasike uključujući ’Im a little teapot’, ’Baa Baa Black sheep’ i ’Itsy Bitsy Spider’!</desc>
+<programme start="20251013141000 +0000" stop="20251013145500 +0000" channel="1397">
+<title>Soko Kitzbühel</title>
+<desc>S17E11 ║ Wenn die Maske fällt ║ Krimiserie
+Auch bei unseren Nachbarn in Österreich gibt es Verbrecher, die es zu jagen gilt. Das Ermittler-Team begibt sich in und um den Tiroler Ort Kitzbühel auf die Suche nach ihnen.</desc>
 </programme>
 <programme start="20251011141200 +0000" stop="20251011141700 +0000" channel="1315">
 <title>Vješti Rafty</title>
@@ -27146,6 +27186,18 @@ Vrijeme je da usporite i opustite se.</desc>
 <title>Mikeov bicikl</title>
 <desc>Mike’s Bike</desc>
 </programme>
+<programme start="20251013140400 +0000" stop="20251013140900 +0000" channel="1315">
+<title>Zalijepi s Mickom</title>
+<desc>Stick with Mick</desc>
+</programme>
+<programme start="20251013140900 +0000" stop="20251013141300 +0000" channel="1315">
+<title>Vješti Rafty</title>
+<desc>Crafty Rafty</desc>
+</programme>
+<programme start="20251013141300 +0000" stop="20251013141900 +0000" channel="1315">
+<title>Billy Bam Bam</title>
+<desc>Billy BamBam</desc>
+</programme>
 <programme start="20251011135500 +0000" stop="20251011141500 +0000" channel="832">
 <title>Gabby 4, ep. 8.</title>
 <desc>GABBY’S DOLLHOUSE
@@ -28149,6 +28201,10 @@ Sportske igre mladih promiču način života čiji su temelji razumijevanje, pri
 <title>Gnome Alone (2017)</title>
 <desc>Gnome Alone (2017)</desc>
 </programme>
+<programme start="20251013140808 +0000" stop="20251013153433 +0000" channel="747">
+<title>My Neighbor Totoro (1988)</title>
+<desc>My Neighbor Totoro (1988)</desc>
+</programme>
 <programme start="20251011110000 +0000" stop="20251011150000 +0000" channel="1119">
 <title>Guess The Year</title>
 <desc>Test your musical knowledge! Can you guess the year in which the following set of classic videos were released?</desc>
@@ -29000,11 +29056,6 @@ U ovoj zabavnoj seriji može da se mnogo nauči o prijateljstvu i o čuvanju zdr
 <programme start="20251013140000 +0000" stop="20251013153000 +0000" channel="687">
 <title>Niko 3: Putevima polarne svjetlosti</title>
 <desc>Niko: Beyond the Northern Lights</desc>
-</programme>
-<programme start="20251011121200 +0000" stop="20251011140200 +0000" channel="853">
-<title>Lepota poroka</title>
-<desc>U zaostalim selima crnogorskog krša običaj je da muž nevernu ženu maljem ubije preko pogače. Na nagovor kuma odlaze u &quot;veliki grad&quot;. On se zaposli u solani, a ona kao spremačica u nudistickom kampu.
-Type: Film; Genre: Bioskopski film; Cast: Mira Furlan, Milutin &apos;Mima&apos; Karadžić, Petar Božović, Mira Banjac, Alain Noury, Ines Kotman, Dobrila Ćirković, Eva Ras, Milo Mira; Director: Živko Nikolić; Release Year: 1986; U zaostalim selima crnogorskog krša običaj je da muž nevernu ženu maljem ubije preko pogače. Na nagovor kuma odlaze u &quot;veliki grad&quot;. On se zaposli u solani, a ona kao spremačica u nudistickom kampu. Živko Nikolić je garancija za dobar film, a ovaj je njegov najbolji.</desc>
 </programme>
 <programme start="20251011140200 +0000" stop="20251011145300 +0000" channel="853">
 <title>To sam što jesam</title>
@@ -30378,20 +30429,6 @@ Martin Bristol se vraća tamo gde je sve počelo: dom odakle je kidnapovan. Ali 
 </programme>
 <programme start="20251013140000 +0000" stop="20251013160000 +0000" channel="833">
 <title>Ma</title>
-</programme>
-<programme start="20251011131100 +0000" stop="20251011140200 +0000" channel="746">
-<title>Zeleni turizam</title>
-<desc>Green tourism
-U doba kada turizam sve više uništava okoliš u svijetu se pojavljuju brojne inicijative kako bi se napokon pomirilo putovanje i ekologija. Povezujući arhitekturu i eskapizam, Zeleni turizam vas vodi u razne krajeve našeg planeta i otkriva vam najljepše ekološke kuće na svijetu. Riječ je o fantastičnim imanjima, čiji ekološki dizajn i prekrasan prirodni okoliš privlače sve više turista željnih zelenijih, autentičnijih i razumnijih doživljaja. Bilo da su u srcu pustinje, smještene na drveću ili...</desc>
-</programme>
-<programme start="20251011140200 +0000" stop="20251011140700 +0000" channel="746">
-<title>Svetska baština</title>
-<desc>Dokumentarni serijal &quot;Svetska baština&quot; bavi se najpoznatijim svjetskim slikarima, njihovim djelima i pričama koje se kriju iza njih.</desc>
-</programme>
-<programme start="20251011140700 +0000" stop="20251011141000 +0000" channel="746">
-<title>Poznati svetski pisci</title>
-<desc>World famous writers
-Serijal o najpoznatijim svjetskim piscima.</desc>
 </programme>
 <programme start="20251011141000 +0000" stop="20251011155100 +0000" channel="746">
 <title>Divlji blues</title>
@@ -33779,6 +33816,18 @@ Uživajte u popularnim hitovima.</desc>
 <programme start="20251013140000 +0000" stop="20251013140300 +0000" channel="696">
 <title>Aca Lukas - Nazalost</title>
 <desc>Aca Lukas</desc>
+</programme>
+<programme start="20251013140300 +0000" stop="20251013140700 +0000" channel="696">
+<title>Ceca Ražnatović - Kuda idu ostavljene devojke</title>
+<desc>Ceca Ražnatović</desc>
+</programme>
+<programme start="20251013140700 +0000" stop="20251013141200 +0000" channel="696">
+<title>Saša Matić - Hocu da ostarim s tobom</title>
+<desc>Saša Matić</desc>
+</programme>
+<programme start="20251013141200 +0000" stop="20251013141600 +0000" channel="696">
+<title>Luis - Moj zivot je moje blago</title>
+<desc>Ljubiša Stojanović Luis</desc>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011160000 +0000" channel="692">
 <title>90 dana do vjenčanja: Prije 90 dana 7, ep. 17.</title>
@@ -37786,12 +37835,6 @@ Movie name is yet to be announced by this channel.</desc>
 <programme start="20251013135000 +0000" stop="20251013143000 +0000" channel="699">
 <title>Sedmica</title>
 </programme>
-<programme start="20251011133000 +0000" stop="20251011140500 +0000" channel="790">
-<title>Vesti</title>
-</programme>
-<programme start="20251011140500 +0000" stop="20251011141000 +0000" channel="790">
-<title>Sportski vesti</title>
-</programme>
 <programme start="20251011141000 +0000" stop="20251011142000 +0000" channel="790">
 <title>Meteo</title>
 </programme>
@@ -38013,6 +38056,9 @@ Movie name is yet to be announced by this channel.</desc>
 </programme>
 <programme start="20251013133000 +0000" stop="20251013140500 +0000" channel="790">
 <title>Vesti</title>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013141500 +0000" channel="790">
+<title>Sportski vesti</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011143000 +0000" channel="859">
 <title>Vesti</title>
@@ -38562,6 +38608,9 @@ Paulina i Paola (Gabriela Španić) dvije su žene identične vanjštine, no raz
 </programme>
 <programme start="20251013132700 +0000" stop="20251013140500 +0000" channel="861">
 <title>Novi začetki 1, ep. 182.</title>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013150000 +0000" channel="861">
+<title>Aurorina ljubezen 1, ep. 97.</title>
 </programme>
 <programme start="20251011125500 +0000" stop="20251011145500 +0000" channel="884">
 <title>Šest dana, sedam noći</title>
@@ -41036,11 +41085,6 @@ Euromaxx je europski lifestyle magazin koji nam donosi zanimljivosti iz europski
 <programme start="20251013130000 +0000" stop="20251013140000 +0000" channel="690">
 <title>No information</title>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011140500 +0000" channel="1210">
-<title>Vesti Studio B</title>
-<desc>Vesti
-Informativni program Studio B TV.</desc>
-</programme>
 <programme start="20251011140500 +0000" stop="20251011150000 +0000" channel="1210">
 <title>PRofil</title>
 <desc>Otkrivamo priče koje menjaju pogled na stvarnost!</desc>
@@ -41340,6 +41384,9 @@ Noćni program.</desc>
 <programme start="20251013140000 +0000" stop="20251013140500 +0000" channel="1210">
 <title>Vesti Studio B</title>
 <desc>Vesti</desc>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013144500 +0000" channel="1210">
+<title>Telestar</title>
 </programme>
 <programme start="20251011140000 +0000" stop="20251011143000 +0000" channel="907">
 <title>Vesti B92</title>
@@ -42764,6 +42811,11 @@ Tausende Brände verwüsten jeden Sommer auf Sizilien ganze Landstriche. Allein 
 <title>Zeiten des Aufruhrs</title>
 <desc>Spielfilm USA 2008 (Revolutionary Road)
 Amerika, Mitte der 50er Jahre. Frank und April Wheeler leben mit ihren beiden Kindern in einem gediegenen Vorort in Connecticut. Für ihre Nachbarn sind die beiden das perfekte Traumpaar. Aber der Schein trügt: Frank ist in seinem Bürojob ebenso unglücklich wie die freigeistige April in ihrer Rolle als biedere Hausfrau. Erst als April ihren Mann dazu überreden kann, sich einen Jugendtraum zu erfüllen und gemeinsam nach Paris zu ziehen, scheint sich das Blatt zu wenden. Dann aber verlässt Frank der Mut. Die Ehe gerät in eine tiefe Krise. Das bewegende Drama zeigt Kate Winslet und Leonardo DiCaprio in schauspielerischer Bestform.</desc>
+</programme>
+<programme start="20251013141000 +0000" stop="20251013145500 +0000" channel="1515">
+<title>Der Sibirische Tiger</title>
+<desc>Seele der russischen Wildnis
+Der Sibirische Tiger ist die größte Raubkatze der Welt. In den Urwäldern im Osten Russlands trägt er als höchstes Glied in der Nahrungskette entscheidend zur Aufrechterhaltung des Ökosystems bei. Das Raubtier gilt als &quot;Seele der russischen Wildnis&quot;. Dabei hätte der Mensch es in den 1940er Jahren fast ausgerottet. Zwar ist der Bestand inzwischen dank strikter Artenschutzmaßnahmen wieder gewachsen, doch neue Urbanisierungstrends bedrohen seinen Lebensraum zusehends. Die Dokumentation sucht nach Lösungen für das Zusammenleben mit dem Raubtier und erinnert daran, dass das Schicksal des Sibirischen Tigers in der Hand des Menschen liegt.</desc>
 </programme>
 <programme start="20251011134500 +0000" stop="20251011161500 +0000" channel="1519">
 <title>Nightmare Alley</title>
@@ -45065,11 +45117,6 @@ Type: Serija; Genre: Tv-serijali; Cast: Marko Janketić, Jelisaveta &apos;Seka&a
 <desc>Zamršeni odnosi u porodici u kojoj glavnu reč vodi bogata tetka Milka, donose razne komične i napete situacije kroz koje nas ova zabavna serija vodi.
 Type: Serija; Genre: Tv-serijali; Cast: Marko Janketić, Jelisaveta &apos;Seka&apos; Sablić, Milan Vasić; Season no.: ; Episode no.: 47; Director: ; Release Year: 2021; Zamršeni odnosi u porodici u kojoj glavnu reč vodi bogata tetka Milka, donose razne komične i napete situacije kroz koje nas ova zabavna serija vodi.</desc>
 </programme>
-<programme start="20251011134000 +0000" stop="20251011140500 +0000" channel="1704">
-<title>Kruds - Porodično Stablo</title>
-<desc>Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.
-Type: Serija; Genre: Tv-serijali; Cast: Darin Brooks, Ally Dixon, Amy Landecker, A.J. LoCascio, Artemis Pebdani, Abby Trott, Kiff VandenHeuvel; Season no.: 2; Episode no.: 18; Director: Scooter Tidwell; Release Year: 2023; Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.</desc>
-</programme>
 <programme start="20251011140500 +0000" stop="20251011143000 +0000" channel="1704">
 <title>Pustolovine sa Braćom Kret</title>
 <desc>Pridružite ce avanturama Krisa i Martina Kreta dok se susreću sa neverovatnim divljim životinjama, kombinujući naučno obrazovanje sa zabavom i avanturom, putujući do životinjskih staništa širom.
@@ -45849,6 +45896,11 @@ Type: Serija; Genre: Tv-serijali; Cast: Ally Dixon, Kiff VandenHeuvel, Matthew W
 <title>Kruds - Porodično Stablo</title>
 <desc>Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.
 Type: Serija; Genre: Tv-serijali; Cast: Ally Dixon, Kiff VandenHeuvel, Matthew Waterson, Amy Rosoff, Amy Landecker, A.J. LoCascio; Season no.: 2; Episode no.: 20; Director: ; Release Year: 2023; Ovo je nastavak priče o porodicama Kruds i Beterman koje uče da žive zajedno na najopuštenijoj farmi u praistoriji.</desc>
+</programme>
+<programme start="20251013140500 +0000" stop="20251013143000 +0000" channel="1704">
+<title>Pustolovine sa Braćom Kret</title>
+<desc>Pridružite see avanturama Krisa i Martina Kreta dok se susreću sa neverovatnim divljim životinjama, kombinujući naučno obrazovanje sa zabavom i avanturom, putujući do životinjskih staništa širom.
+Type: Serija; Genre: Tv-serijali; Cast: Chris Kratt, Martin Kratt, Athena Karkanis, Jonathan Malen, Heather Bambrick; Season no.: 3; Episode no.: 9; Director: ; Release Year: 2014; Pridružite see avanturama Krisa i Martina Kreta dok se susreću sa neverovatnim divljim životinjama, kombinujući naučno obrazovanje sa zabavom i avanturom, putujući do životinjskih staništa širom sveta. Svaka avantura istražuje život životinja i prikazuje do sada neviđen aspekt života u divljini. To je sve upakovano u zanimljivu priču o avanturi, misteriji, spasavanju i veoma zanimljivu komediju braće Kret od kakve ćete se grohotom smejati.</desc>
 </programme>
 <programme start="20251011135500 +0000" stop="20251011164000 +0000" channel="1784">
 <title>X Factor</title>
@@ -48390,11 +48442,6 @@ Na Dan zahvalnosti Chandler pokušava steći naklonost Monicinih roditelja, ali 
 <title>UŽIVO: 24UR novice</title>
 <desc>24UR</desc>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011140800 +0000" channel="1066">
-<title>Zakazan pregled</title>
-<desc>Lekar specijalista priča o jednom zdravstvemom problemu i odgovara na desetak pitanja koja su vezana za definisanjem bolesti, dijagnostikom, simptomima, lečenju i prevenciji.
-Type: Program; Genre: Zdravlje i medicina; Cast: ; Director: ; Release Year: 2020; Lekar specijalista priča o jednom zdravstvemom problemu i odgovara na desetak pitanja koja su vezana za definisanjem bolesti, dijagnostikom, simptomima, lečenju i prevenciji.</desc>
-</programme>
 <programme start="20251011140800 +0000" stop="20251011143000 +0000" channel="1066">
 <title>Izaberi zdravo</title>
 <desc>Voditelj Drago Jovanović razbija zablude vezane za hranu i određene namirnice. Sve ukombinovano sa grafikom koja prati priču.
@@ -50611,11 +50658,6 @@ Linden Brownley
 Jacqui Buzetti
 Andrew Leahy.</desc>
 </programme>
-<programme start="20251011133500 +0000" stop="20251011140500 +0000" channel="1901">
-<title>Nepraktični šaljivci 6, ep. 19.</title>
-<desc>Impractical Jokers VI.
-Each episode contains a regime of multiple challenges in teams, independently or against specific jokers in a head-to-head challenge. Every time they fail to complete a task, the joker will receive a red thumbs-down. The joker with the most thumbs down after the series of challenges is the loser who must complete an extremely embarrassing or difficult task and cannot refuse to try it. These Loser Challenges have consisted of dangerous stunts and some scary scenes.</desc>
-</programme>
 <programme start="20251011140500 +0000" stop="20251011150000 +0000" channel="1901">
 <title>Garaža Jaya Lena 6, ep. 12.</title>
 <desc>Jay Leno’s Garage VI.
@@ -50985,10 +51027,8 @@ Paulina i Paola (Gabriela Španić) dvije su žene identične vanjštine, no raz
 <programme start="20251013132700 +0000" stop="20251013140500 +0000" channel="1902">
 <title>Novi začetki 1, ep. 182.</title>
 </programme>
-<programme start="20251011140000 +0000" stop="20251011140500 +0000" channel="1909">
-<title>Brze vesti</title>
-<desc>Kratak pregled najvažnijih vesti. Saznajte koja su to dešavanja obeležila dan.
-Type: Program; Genre: Vesti; Cast: ; Director: ; Release Year: 2025; Kratak pregled najvažnijih vesti. Saznajte koja su to dešavanja obeležila dan.</desc>
+<programme start="20251013140500 +0000" stop="20251013150000 +0000" channel="1902">
+<title>Aurorina ljubezen 1, ep. 97.</title>
 </programme>
 <programme start="20251011140500 +0000" stop="20251011150000 +0000" channel="1909">
 <title>Paralela</title>
@@ -52105,6 +52145,11 @@ Type: Serija; Genre: Tv-serijali; Cast: ; Season no.: ; Episode no.: ; Director:
 <desc>Nemačka serija donosi uzbudljive pustolovine doktora i gorskih spasilaca koji u prekrasnim, ali i opasnim planinskim ambijentima priskaču u pomoć ljudima koji su se zatekli u najrazličitijim.
 Type: Serija; Genre: Tv-serijali; Cast: Hans Zigl, Hajko Rupreht, Mark Keler; Season no.: ; Episode no.: ; Director: Aksel Bart; Release Year: 2021; Nemačka serija donosi uzbudljive pustolovine doktora i gorskih spasilaca koji u prekrasnim, ali i opasnim planinskim ambijentima priskaču u pomoć ljudima koji su se zatekli u najrazličitijim opasnim situacijama. Uzbudljive akcije spasavanja u seriji su kombinovane s dirljivim porodičnim pričama, a serija je snimana u veličanstvenoj, netaknutoj prirodi austrijskih Alpa.</desc>
 </programme>
+<programme start="20251013141300 +0000" stop="20251013160000 +0000" channel="2012">
+<title>Margarete Štajf: Priča o hrabrosti</title>
+<desc>Biografska drama o životu nemačke proizvođačice igračaka Margarete Steiff.
+Type: Film; Genre: Televizijski film; Cast: Heike Makatsch, Felix Eitner, Hary Prinz, Donald Arthur, Corinna Beilharz, Sigrid Burkholder, Niklas Ehrensperger, Gerhard Ernst; Director: Ksaver Švarcenberger; Release Year: 2005; Biografska drama o životu nemačke proizvođačice igračaka Margarete Steiff. Film nam donosi njen dugi put, od desetogodišnje devojčice prikovane za kolica do jedne od prvih i najuspešnijih kreatorki plišanih igračaka.</desc>
+</programme>
 <programme start="20251011123500 +0000" stop="20251011144000 +0000" channel="1586">
 <title>Selma</title>
 <desc>USA/GB/F 2014
@@ -53024,6 +53069,11 @@ Mit Paula Echevarría, Miguel Ángel Silvestre, Aitana Sánchez-Gijón, u.a. * E
 <desc>Um jeden Preis * Arztserie, D 2015
 Mit Roy Peter Link, Sanam Afrashteh, Mike Adler, u.a. * Dr. Moreau ist fest entschlossen, die junge Luisa Engel am Handgelenk zu operieren. Doch die Patientin und ihre Schwester fordern eine Zweitmeinung von Dr. Stein aus der Sachsenklinik ein. Dr. Koshka macht sich unterdessen große Sorgen um ihre Oma Magda, die im Johannes-Thal-Klinikum eine bedenkliche Diagnose erhält.</desc>
 </programme>
+<programme start="20251013140500 +0000" stop="20251013145500 +0000" channel="1600">
+<title>Sturm der Liebe</title>
+<desc>Konstantin stellt Natascha ein..., D 2013
+Telenovela * Mit Lucy Scherer, Moritz Tittel, Melanie Wiegmann, u.a. * Marlene redet Konstantin ins Gewissen - ohne Erfolg: Er verlässt gemeinsam mit Sabrina das Bräustüberl. Er ist allerdings so betrunken, dass zwischen den beiden nichts passiert. Als Natascha über Umwege davon erfährt, macht sie Konstantin schwere Vorwürfe.</desc>
+</programme>
 <programme start="20251011135500 +0000" stop="20251011142000 +0000" channel="1598">
 <title>The Big Bang Theory</title>
 <desc>Die Mars-Bewerbung (17) * Sitcom
@@ -53577,6 +53627,11 @@ USA 1999 * Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Ku
 <programme start="20251013134500 +0000" stop="20251013141000 +0000" channel="1598">
 <title>King of Queens</title>
 <desc>Auf Eis gelegt (25) * Sitcom, USA 1999
+Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Kurierfahrer Doug Heffernan ist ein einfacher und zufriedener Durchschnittsamerikaner. Seine Frau Carrie, eine ambitionierte Rechtsanwaltsgehilfin, drängt ihren Mann ständig, mehr Ambitionen an den Tag zu legen. So richtig turbulent wird das Leben der beiden aber erst, als Dougs Schwiegervater Arthur, der versehentlich sein Haus niedergebrannt hat, bei ihnen einzieht.</desc>
+</programme>
+<programme start="20251013141000 +0000" stop="20251013143500 +0000" channel="1598">
+<title>King of Queens</title>
+<desc>Born to be Wild (1) * Sitcom, USA 1999
 Mit Kevin James, Leah Remini, Victor Williams, u.a. * Der beleibte Kurierfahrer Doug Heffernan ist ein einfacher und zufriedener Durchschnittsamerikaner. Seine Frau Carrie, eine ambitionierte Rechtsanwaltsgehilfin, drängt ihren Mann ständig, mehr Ambitionen an den Tag zu legen. So richtig turbulent wird das Leben der beiden aber erst, als Dougs Schwiegervater Arthur, der versehentlich sein Haus niedergebrannt hat, bei ihnen einzieht.</desc>
 </programme>
 <programme start="20251011133033 +0000" stop="20251011142500 +0000" channel="1568">
