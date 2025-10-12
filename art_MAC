@@ -856,11 +856,11 @@ http://e2.ddstream.info:5262/live?channelId=1262&deviceMac=00:1A:79:28:8a:42&sma
 http://e2.ddstream.info:4547/live?channelId=547&deviceMac=00:1A:79:28:8a:42&smart=1
 #EXTINF:-1 tvg-id="2010" tvg-name="Max Sport 1." group-title="07. SPORTSKI",Max Sport 1. (cro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
-http://e2.ddstream.info:6010/live?channelId=2010&deviceMac=00:1A:79:28:8a:42&smart=1
-#EXTINF:-1 tvg-id="548" tvg-name="Max Sport 2" group-title="07. SPORTSKI",Max Sport 2 (cro)
+http://cdn.exchange.phorious.stream/play/mpegts/1917562913101b45000c0d071907060c03581b0804190311074c430347134940590d524e430415504b4205
+#EXTINF:-1 tvg-id="548" tvg-name="Max Sport 2." group-title="07. SPORTSKI",Max Sport 2 (cro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://e2.ddstream.info:4548/live?channelId=548&deviceMac=00:1A:79:28:8a:42&smart=1
-#EXTINF:-1 tvg-id="1972" tvg-name="Max Sport 3" group-title="07. SPORTSKI",Max Sport 3 (cro)
+#EXTINF:-1 tvg-id="1972" tvg-name="Max Sport 3." group-title="07. SPORTSKI",Max Sport 3 (cro)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 http://e2.ddstream.info:5972/live?channelId=1972&deviceMac=00:1A:79:28:8a:42&smart=1
 #EXTINF:-1 tvg-id="1973" tvg-name="Max Sport 4" group-title="07. SPORTSKI",Max Sport 4 (cro)
