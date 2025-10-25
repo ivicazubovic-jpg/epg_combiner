@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ivicazubovic-jpg/epg_combiner/gh-pages/epg_iptv_promax_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ivicazubovic-jpg/epg_combiner/gh-pages/epg_iptv_promax_epg.xml"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0
 #EXTINF:-1 tvg-id="463" tvg-name="1nfo Kanal" tvg-logo="/images/unknown.png" group-title="01. SRPSKI",1nfo Kanal (art)
 http://e2.ddstream.info:4463/live?channelId=463&deviceMac=00:1A:79:28:8a:42&smart=1
