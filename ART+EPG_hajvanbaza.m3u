@@ -1970,4 +1970,5 @@ http://cdn.exchange.phorious.stream/play/mpegts/1917562913101b45000c0d071907060c
 #EXTINF:-1 group-title="Odrasli 18 XXX (ADULT + 18)",Erotic 8
 http://cdn.exchange.phorious.stream/play/mpegts/1917562913101b45000c0d071907060c03581b0804190311074c430347134940590d524e4304155049400e
 #EXTINF:-1 group-title="VIDEOTEKA",TREBA DUZE PRICEKAT
-https://srv1.exyu.cc:443/get.php?username=pnIkfD7gbY&password=yHY037Jmfu&type=m3u
+https://srv1.exyu.cc:443/get.php?username=pnIkfD7gbY&password=yHY037Jmfu&type=m3u_plus&output=mpegts
+
