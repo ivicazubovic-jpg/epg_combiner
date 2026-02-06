@@ -3369,3 +3369,5 @@ http://e2.ddstream.info:6226/live?channelId=2226&deviceMac=00:1A:79:28:8a:42&sma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Samsung Galaxy S22) AppleWebKit/537.36 Chrome/110.0.0.0 
 #EXTINF:-1 tvg-id="2227" tvg-name="Russian Night" group-title="35. Odrasli +18 XXX",Russian Night
 http://e2.ddstream.info:6227/live?channelId=2227&deviceMac=00:1A:79:28:8a:42&smart=1
+#EXTINF:-1 tvg-id="" tvg-name="The Housemaid" group-title="36. Videoteka,The Housemaid
+http://77.81.121.199/media/PrischyVC6/00:1A:20:D8:36:04/11595.mkv
